@@ -11,3 +11,6 @@ image: ""
 ![](/images/comics_msg_magnet_03.jpg)
 ![](/images/comics_msg_magnet_04.jpg)
 Magnets have **Attractive Property**, it attracts ferromagnetic materials like iron, cobalt, and nickel.
+
+
+
