@@ -6,3 +6,7 @@ layout: post
 description: bb test
 image: ""
 ---
+![](/images/comics_msg_magnet_01.jpg)
+![](/images/comics_msg_magnet_02.jpg)
+![](/images/comics_msg_magnet_03.jpg)
+![](/images/comics_msg_magnet_04.jpg)
