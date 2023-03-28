@@ -1,4 +1,5 @@
 collections:
   comics:
     output: true
-    order: []
+    order:
+      - comics 1.md
