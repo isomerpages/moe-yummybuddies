@@ -1,4 +1,5 @@
 collections:
   games:
     output: true
-    order: []
+    order:
+      - ELLB.md
