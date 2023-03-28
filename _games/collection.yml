@@ -2,4 +2,5 @@ collections:
   games:
     output: true
     order:
+      - ELLB 22.md
       - ELLB.md
