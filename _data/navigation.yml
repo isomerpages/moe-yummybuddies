@@ -12,3 +12,8 @@ links:
     collection: comics
   - title: Games folder
     collection: games
+  - title: what?
+    url: /permalink
+    sublinks:
+      - title: sadsdaasd
+        url: /peasdasd
