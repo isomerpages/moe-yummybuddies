@@ -6,9 +6,9 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: Comics folder
-    resource_room: true
   - title: Comics
+    resource_room: true
+  - title: Comics folder
     collection: comics
-  - title: Games
+  - title: Games folder
     collection: games
