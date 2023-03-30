@@ -8,5 +8,5 @@ links:
     collection: example-folder
   - title: Comics
     resource_room: true
-  - title: Contents
+  - title: Comics
     collection: comics
