@@ -2,5 +2,5 @@ collections:
   comics:
     output: true
     order:
-      - comics 2.md
       - comics 1.md
+      - comics 2.md
