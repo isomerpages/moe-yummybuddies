@@ -1,5 +1,5 @@
 title: YummyBuddies
-url: https://www.yummybuddies.moe.edu.sg
+url: https://yummybuddies.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#4a90e2"
@@ -53,7 +53,8 @@ staging: https://staging.d3llyogl2yj2ln.amplifyapp.com
 prod: https://master.d3llyogl2yj2ln.amplifyapp.com
 resources_name: yummy-buddies
 shareicon: /images/isomer-logo.svg
-is_government: true
+is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
