@@ -1,10 +1,12 @@
 ---
 layout: homepage
+title: Isomer Site
+description: Brief site description here
 title: YummyBuddies
-description: Teach with Yummy Buddies with our dedicated website for all our content.
+description: Non-curriculum based Informational website for Students
 image: /images/isomer-logo.svg
 permalink: /
-notification: Check out our new web game on SLS now!
+notification: Here's a notification bar you can use!
 sections: "[object Object],[object Object],[object Object],[object
   Object],[object Object]"
 ---
