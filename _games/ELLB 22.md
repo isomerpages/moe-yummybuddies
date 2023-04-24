@@ -13,5 +13,7 @@ image: /images/favicon-isomer.ico
 
 <div class="bp-html5game">
 
+https://yummybuddies.sg/ellb/b22
+
 </div>
 ```
