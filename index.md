@@ -4,7 +4,7 @@ title: YummyBuddies
 description: Non-curriculum based Informational website for Students
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Check out our new web game on SLS now!
 sections:
   - hero:
       title: Hero title
