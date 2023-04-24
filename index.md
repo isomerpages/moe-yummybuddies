@@ -30,7 +30,7 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-@@ -38,4 +41,9 @@ sections:
+sections:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
       button: Resources Button Name
