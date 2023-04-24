@@ -1,8 +1,8 @@
 title: Yummy Buddies
 url: https://yummybuddies.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon_64.jpg
 colors:
-  primary-color: "#4a90e2"
+  primary-color: "#ff6600"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
@@ -15,7 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Non-curriculum based Informational website for Students
+description: |-
+  Teach with Yummy Buddies with our dedicated website for all our content. 
+  Engage ● Entertain ● Educate
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +54,7 @@ plugins:
 staging: https://staging.d3llyogl2yj2ln.amplifyapp.com
 prod: https://master.d3llyogl2yj2ln.amplifyapp.com
 resources_name: yummy-buddies
-shareicon: /images/isomer-logo.svg
+shareicon: /images/shareicon_social_media.jpg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
