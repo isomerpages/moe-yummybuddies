@@ -1,4 +1,4 @@
-title: Yummy Buddies
+title: YummyBuddies
 url: https://yummybuddies.moe.edu.sg
 favicon: /images/favicon_64.jpg
 colors:
@@ -15,9 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: |-
-  Teach with Yummy Buddies with our dedicated website for all our content. 
-  Engage ● Entertain ● Educate
+description: Teach with Yummy Buddies with our dedicated website for all our content.
 permalink: none
 baseurl: ""
 exclude:
