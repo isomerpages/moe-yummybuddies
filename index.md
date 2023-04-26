@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website/yummy_buddies_slider_frog_1920_720_text2.jpg
+      background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
   - infopic:
       title: Comics
       description: Light-hearted, character-driven comic strips that follow the Yummy
@@ -24,6 +24,7 @@ sections:
       button: Start now
       url: /contact
       alt: Image alt text
+      image: /images/Website/home_game.png
   - infobar:
       button: Get in touch with us!
       url: /contact
