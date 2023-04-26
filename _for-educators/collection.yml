@@ -2,6 +2,6 @@ collections:
   for-educators:
     output: true
     order:
-      - Who created the Yummy Buddies.md
+      - The Yummy Team.md
       - Why use the Yummy Buddies?.md
       - Overview.md
