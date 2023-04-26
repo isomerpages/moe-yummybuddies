@@ -2,6 +2,7 @@ collections:
   comics:
     output: true
     order:
+      - Wata/.keep
       - Pok Pok/Pok Pok 1.md
       - Pok Pok/.keep
       - Flip/Flip 1.md
