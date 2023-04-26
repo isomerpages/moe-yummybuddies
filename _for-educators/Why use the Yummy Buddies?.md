@@ -4,7 +4,9 @@ permalink: /for-educators/why/
 description: Increase student engagement. Aligned with  MOE curriculum. 1-stop
   platform for easy access
 ---
-All young learners have an innate curiosity to learn about the world around them. The Yummy Buddies, an original educational resource designed by the Media Design for Learning Branch, are adorable digital characters designed to motivate and sustain students in their learning. 
+All young learners have an innate curiosity to learn about the world around them. The Yummy Buddies are adorable digital characters designed to motivate and sustain students in their learning. 
+
+![return plates](/images/Characters/educator_why.jpg)
 
 With their different personalities and quirks, the Yummy Buddies represent a range of learning dispositions and attitudes that will resonate with young learners as they acquire knowledge and skills in a way that is both entertaining and memorable. Join the Yummy Buddies on an educational adventure filled with laughter, discovery, and growth!
 
