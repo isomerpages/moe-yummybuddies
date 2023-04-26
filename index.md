@@ -17,8 +17,8 @@ sections:
       button: Button Text
       alt: Image alt text
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      description: Got a tasty idea for the next Yummy Buddies adventure? We’d love to
+        hear it !
+      button: Get in touch with us!
+      url: /contact
 ---
