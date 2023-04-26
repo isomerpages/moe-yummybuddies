@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Get ready!
       subtitle: Join theYummy Buddies as they explore the wonderful world we live in.
-      background: /images/hero-banner.png
+      background: /images/yummy_buddies_slider_frog_1920_720.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
