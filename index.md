@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Join them to explore the wonderful world we live in.
-      background: /images/yummy_buddies_slider_frog_1920_720.jpg
-      title: Meet the Yummy Buddies!
+      background: /images/yummy_buddies_slider_frog_1920_720_text.jpg
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
