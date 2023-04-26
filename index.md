@@ -17,12 +17,12 @@ sections:
       button: Join their adventures now
       alt: home_comics
       image: /images/Website/home_comics.png
-      url: images/Website/favicon_64.jpg
+      url: /comics
   - infopic:
       title: Game on!
       description: Go on a quest with the Yummy Buddies in our web game series on SLS!
       button: Start now
-      url: /contact
+      url: /games
       alt: home_game
       image: /images/Website/home_game.png
   - infobar:
