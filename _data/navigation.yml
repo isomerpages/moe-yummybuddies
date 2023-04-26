@@ -1,17 +1,11 @@
 logo: /images/Website/yummy_buddies_logo_512.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Comics
-    resource_room: true
-  - title: what?
-    url: /permalink
+  - title: About
+    url: /about/overview/
     sublinks:
-      - title: sadsdaasd
-        url: /peasdasd
-      - title: Subwqeew
-        url: /perqweqwe
-      - title: Submeqweqweqwee
-        url: /permqwewqealink
+      - title: Overview
+        url: /about/overview/
+      - title: Yummy Buddies
+        url: /about/yummy-buddies/
+      - title: Submenu Title
+        url: /permalink
