@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Yummy Buddies
-description: Teach with Yummy Buddies with our dedicated website for all our content.
+description: Join the Yummy Buddies on an educational adventure filled with
+  laughter, discovery, and growth!
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
