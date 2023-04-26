@@ -13,11 +13,11 @@ links:
     url: /resources/
     sublinks:
       - title: Comics
-        url: /comics/overview
+        url: /comics/
       - title: Games
         url: /games/
       - title: Animations
-        url: /animations
+        url: /animations/
   - title: For educators
     url: /for-educators/overview/
     sublinks:
