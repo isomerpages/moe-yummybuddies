@@ -6,8 +6,6 @@ links:
     url: /example-page/
   - title: Comics
     resource_room: true
-  - title: Games folder
-    collection: games
   - title: what?
     url: /permalink
     sublinks:
