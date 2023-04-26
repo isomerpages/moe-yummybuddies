@@ -27,7 +27,7 @@ sections:
       image: /images/Website/home_game.png
   - infobar:
       button: Get in touch with us!
-      url: /contact
+      url: /contact-us
       title: Got a tasty idea for the next Yummy Buddies adventure?
       subtitle: Interested to collaborate?
 ---
