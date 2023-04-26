@@ -9,11 +9,14 @@ sections:
   - hero:
       background: /images/yummy_buddies_slider_frog_1920_720_text.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Comics
+      description: Light-hearted, character-driven comic strips that follow the Yummy
+        Buddies on their everyday adventures and their  never-ending quest
+        for  knowledge
+      button: Read more
       alt: Image alt text
+      image: /images/merry-excercise.gif
+      url: images/Website/favicon_64.jpg
   - infobar:
       description: Got a tasty idea for the next Yummy Buddies adventure? We’d love to
         hear it !
