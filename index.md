@@ -23,4 +23,5 @@ sections:
         hear it !
       button: Get in touch with us!
       url: /contact
+      title: Interested to collaborate with us?
 ---
