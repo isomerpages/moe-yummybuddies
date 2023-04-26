@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Get ready!
-      subtitle: Join theYummy Buddies as they explore the wonderful world we live in.
+      subtitle: Join the Yummy Buddies as they explore the wonderful world we live in.
       background: /images/yummy_buddies_slider_frog_1920_720.jpg
   - infopic:
       title: Infopic Title
