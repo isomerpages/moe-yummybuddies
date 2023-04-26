@@ -3,8 +3,6 @@ title: Yummy Buddies
 permalink: /about/yummy-buddies/
 description: Read all about the Yummy Buddies characters here!
 ---
-|![](/images/Website/yummy_buddies_logo_512.png) Bouncy the fishball``| He may be a prata, life with Flip is anything but flat. Flip wears his heart on his sleeve, and sometimes finds it hard to control his emotions. He views the world in simple terms. Things are either black or white, good or bad, right or wrong. Flip chases perfection, and believes that hard work is the solution to all problems.|
-| -------- | -------- |
-|![](/images/Website/yummy_buddies_logo_512.png)| He may be a prata, life with Flip is anything but flat. Flip wears his heart on his sleeve, and sometimes finds it hard to control his emotions. He views the world in simple terms. Things are either black or white, good or bad, right or wrong. Flip chases perfection, and believes that hard work is the solution to all problems.|
-
-![](/images/Website/yummy_buddies_logo_512.png)
+## Bouncy
+![](/images/char_bouncy.jpg)
+Bouncy is our cheerful hero. This exuberant fishball is easily excited by all things new and novel. Bouncy has a quick wit and an infectious sense of humour, but his tendency towards cheekiness sometimes lands him in hot water. Fortunately, with the help of his friends, he always manages to bounce himself out a tight spot.
