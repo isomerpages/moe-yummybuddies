@@ -2,6 +2,7 @@ collections:
   comics:
     output: true
     order:
+      - Ms G/.keep
       - Coco/Coco1.md
       - Coco/.keep
       - Wata/Wata 1.md
