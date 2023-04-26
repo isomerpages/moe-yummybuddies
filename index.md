@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: Join the Yummy Buddies as they explore the wonderful world we live in.
+      subtitle: Get ready to dive into some Yummy Adventures!
       background: /images/yummy_buddies_slider_frog_1920_720.jpg
+      title: Meet the Yummy Buddies!
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
