@@ -6,6 +6,7 @@ description: We welcome ideas, feedback, suggestions for improvement and most of
   together to make learning come alive!
 ---
 ![educator collaborate](/images/Characters/educator_collab.jpg)
+
 We welcome ideas, feedback, suggestions for improvement and most of all, collaboration opportunities. 
 
 These are the different formats we have for Yummy Buddies:
