@@ -2,4 +2,5 @@ collections:
   comics:
     output: true
     order:
+      - Bouncy/.keep
       - Bouncy.md
