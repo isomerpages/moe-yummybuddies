@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/Website/yummy_buddies_slider_frog_1920_720_text2.jpg
   - infopic:
-      title: "Yummy Buddies: Comics"
+      title: Comics
       description: Light-hearted, character-driven comic strips that follow the Yummy
         Buddies on their everyday adventures and their  never-ending quest
         for  knowledge
