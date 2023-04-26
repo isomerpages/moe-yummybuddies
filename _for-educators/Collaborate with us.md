@@ -11,11 +11,11 @@ We welcome ideas, feedback, suggestions for improvement and most of all, collabo
 
 These are the different formats we have for Yummy Buddies:
 
-*   Animations
-*   Comics & Concept Cartoons
-*   Web Games
-*   SLS Gamified Courses
-*   Whatsapp sticker packs
+* Animations
+* Comics & Concept Cartoons
+* Web Games
+* SLS Gamified Courses
+* Whatsapp sticker packs
 
 Get in touch with us, and let’s work together to make learning 
 come alive!
