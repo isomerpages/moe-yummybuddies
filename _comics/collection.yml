@@ -2,6 +2,7 @@ collections:
   comics:
     output: true
     order:
+      - Pok Pok/.keep
       - Flip/Flip 1.md
       - Flip/.keep
       - Merry/Merry 1.md
