@@ -15,7 +15,7 @@ sections:
         Buddies on their everyday adventures and their  never-ending quest
         for  knowledge
       button: Join their adventures now
-      alt: Image alt text
+      alt: home_comics
       image: /images/Website/home_comics.png
       url: images/Website/favicon_64.jpg
   - infopic:
@@ -23,7 +23,7 @@ sections:
       description: Go on a quest with the Yummy Buddies in our web game series on SLS!
       button: Start now
       url: /contact
-      alt: Image alt text
+      alt: home_game
       image: /images/Website/home_game.png
   - infobar:
       button: Get in touch with us!
