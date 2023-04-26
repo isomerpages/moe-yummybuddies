@@ -2,6 +2,7 @@ collections:
   comics:
     output: true
     order:
+      - Merry/Merry 1.md
       - Merry/.keep
       - Bouncy/Bouncy 1.md
       - Bouncy/.keep
