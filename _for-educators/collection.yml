@@ -2,9 +2,9 @@ collections:
   for-educators:
     output: true
     order:
-      - FAQs.md
       - Overview.md
       - Why use the Yummy Buddies?.md
       - The Team.md
       - Collaborate with us.md
       - Subscribe.md
+      - FAQs.md
