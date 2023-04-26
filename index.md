@@ -10,22 +10,12 @@ sections:
       title: Get ready!
       subtitle: Join theYummy Buddies as they explore the wonderful world we live in.
       background: /images/hero-banner.png
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
