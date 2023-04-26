@@ -2,6 +2,5 @@ collections:
   about:
     output: true
     order:
-      - Resources.md
       - The Yummy Buddies.md
       - Characters.md
