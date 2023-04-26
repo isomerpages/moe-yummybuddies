@@ -2,6 +2,7 @@ collections:
   for-educators:
     output: true
     order:
+      - Collaborate with us.md
       - The Yummy Team.md
       - Why use the Yummy Buddies?.md
       - Overview.md
