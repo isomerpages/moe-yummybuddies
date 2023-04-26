@@ -4,8 +4,6 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
   - title: Comics
     resource_room: true
   - title: Games folder
