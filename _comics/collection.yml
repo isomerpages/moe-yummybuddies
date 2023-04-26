@@ -2,6 +2,7 @@ collections:
   comics:
     output: true
     order:
+      - Poodle/Poodle1.md
       - Poodle/.keep
       - Ms﮳ G/Ms G 1.md
       - Ms﮳ G/.keep
