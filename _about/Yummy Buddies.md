@@ -14,3 +14,15 @@ He may be a prata, life with **Flip** is anything but flat. Flip wears his heart
 
 ![pok pok](/images/Characters/char_pok_pok.jpg)
 **Pok Pok** is an artistic curry puff who views the world with a childlike sense of wonder. Her friends sometimes find her flighty and naive, but this gentle curry puff is simply an eternal optimist who believes the best about people and tries her best to see things from many points of view.
+
+![wata](/images/Characters/char_wata.jpg)
+**Wata** the water bottle is considerate and caring, often to a fault – his friends sometimes find his help excessive and mildly annoying. On the rare occasion he loses his cool, Wata literally gets boiling mad - the water in him heats up, and steam spurts out from his spout, giving new meaning to the phrase ‘blowing his top’.
+
+![coco](/images/Characters/char_coco.jpg)
+This brainy chocolate-coated stick biscuit  absorbs information like a sponge and is always hungry for knowledge. The other Yummy Buddies instinctively turn to him when they have questions and **Coco** delights in helping them solve their little crises with little nuggets of obscure information.
+
+![ms g](/images/Characters/char_msg.jpg)
+**Ms. G** is the Yummy Buddies’ favourite teacher. This green apple with a nurturing nature knows that all young learners have a burning curiosity about the world, and together with Poodle, her faithful AI dogbot, Ms. G does her best to help them on the path to discovery.
+
+![poodle](/images/Characters/char_poodle.jpg)
+Poodle combines a puppy’s enthusiasm with the power of the Internet at its finger-, or rather, paw-tips. This AI dogbot, however, doesn’t always have all the right answers (especially if he hasn’t updated to the latest version!). Luckily, Ms. G knows to fact-check and use good ol’ common sense to verify anything Poodle gives her.
