@@ -14,7 +14,7 @@ sections:
       description: Light-hearted, character-driven comic strips that follow the Yummy
         Buddies on their everyday adventures and their  never-ending quest
         for  knowledge
-      button: Read more
+      button: Join their adventures now
       alt: Image alt text
       image: /images/merry-excercise.gif
       url: images/Website/favicon_64.jpg
