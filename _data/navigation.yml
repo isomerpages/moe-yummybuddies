@@ -9,3 +9,8 @@ links:
         url: /about/yummy-buddies/
       - title: Contact us
         url: /contact-us
+  - title: Resources
+    url: /resources/comics/
+    sublinks:
+      - title: Game
+        url: /resources/games/
