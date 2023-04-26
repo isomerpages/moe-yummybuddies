@@ -2,5 +2,5 @@ collections:
   comics:
     output: true
     order:
-      - Bouncy/Bouncy.md
+      - Bouncy/Bouncy 1.md
       - Bouncy/.keep
