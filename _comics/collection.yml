@@ -2,19 +2,19 @@ collections:
   comics:
     output: true
     order:
-      - Poodle/Poodle1.md
-      - Poodle/.keep
-      - Ms﮳ G/Ms G 1.md
-      - Ms﮳ G/.keep
-      - Coco/Coco1.md
-      - Coco/.keep
-      - Wata/Wata 1.md
-      - Wata/.keep
-      - Pok Pok/Pok Pok 1.md
-      - Pok Pok/.keep
-      - Flip/Flip 1.md
-      - Flip/.keep
-      - Merry/Merry 1.md
-      - Merry/.keep
-      - Bouncy/Bouncy 1.md
       - Bouncy/.keep
+      - Bouncy/Bouncy 1.md
+      - Merry/.keep
+      - Merry/Merry 1.md
+      - Flip/.keep
+      - Flip/Flip 1.md
+      - Pok Pok/.keep
+      - Pok Pok/Pok Pok 1.md
+      - Wata/.keep
+      - Wata/Wata 1.md
+      - Coco/.keep
+      - Coco/Coco1.md
+      - Ms﮳ G/.keep
+      - Ms﮳ G/Ms G 1.md
+      - Poodle/.keep
+      - Poodle/Poodle1.md
