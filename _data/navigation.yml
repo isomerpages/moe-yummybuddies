@@ -13,7 +13,7 @@ links:
     url: /resources/
     sublinks:
       - title: Comics
-        url: /comics
+        url: /comics/overview
       - title: Games
         url: /games/
       - title: Animations
