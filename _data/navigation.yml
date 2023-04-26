@@ -3,12 +3,12 @@ links:
   - title: About
     url: /about/overview/
     sublinks:
-      - title: Overview
-        url: /about/overview/
-      - title: Yummy Buddies
+      - title: The Yummy Buddies
         url: /about/yummy-buddies/
-      - title: Contact us
-        url: /contact-us
+      - title: Characters
+        url: /about/characters/
+      - title: Share your ideas
+        url: /about/share-ideas/
   - title: Resources
     url: /resources/
     sublinks:
