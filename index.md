@@ -3,7 +3,7 @@ layout: homepage
 title: Yummy Buddies
 description: Join the Yummy Buddies on an educational adventure filled with
   laughter, discovery, and growth!
-image: /images/isomer-logo.svg
+image: /images/Website/favicon_64.jpg
 permalink: /
 notification: ""
 sections:
