@@ -3,20 +3,8 @@ title: Stay connected
 permalink: /for-educators/stay-connected/
 description: Drop us an email and we will notify you when there’s new Yummy contents!
 ---
-We are working with different partners to 
-Drop us an email and we will notify you when there’s an update.
-**
+We are working with different partners to create educational contents for Yummy Buddies.
 
-Content will be created in different formats, including,  
-but not limited to:
+Drop us a message here and we will notify you when there are new contents.
 
-*   Animations
-    
-*   Comics & Concept Cartoons
-    
-*   Posters
-    
-*   Whatsapp sticker packs \[for future integration into ETD’s educational content\]
-    
-
-**
+![](/images/Characters/bouncy-keep-in-touch.gif)
