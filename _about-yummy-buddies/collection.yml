@@ -1,5 +1,5 @@
 collections:
-  about:
+  about-yummy-buddies:
     output: true
     order:
       - Resources.md
