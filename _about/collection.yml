@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Yummy Buddies/Yummy Buddies.md
       - Yummy Buddies/.keep
       - Overview.md
       - Contact us.md
