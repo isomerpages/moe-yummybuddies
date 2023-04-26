@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Yummy Buddies/Poodle.md
       - Yummy Buddies/Bouncy.md
       - Yummy Buddies/.keep
       - Overview.md
