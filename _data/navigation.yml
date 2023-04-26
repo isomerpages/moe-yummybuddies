@@ -10,7 +10,7 @@ links:
       - title: Contact us
         url: /contact-us
   - title: Resources
-    url: /resources/comics/
+    url: /comics/
     sublinks:
       - title: Game
-        url: /resources/games/
+        url: /games/
