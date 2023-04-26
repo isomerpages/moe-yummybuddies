@@ -8,8 +8,6 @@ links:
     collection: example-folder
   - title: Comics
     resource_room: true
-  - title: Comics folder
-    collection: comics
   - title: Games folder
     collection: games
   - title: what?
