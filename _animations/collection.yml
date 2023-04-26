@@ -1,0 +1,4 @@
+collections:
+  animations:
+    output: true
+    order: []
