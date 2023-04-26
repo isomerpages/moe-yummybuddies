@@ -16,7 +16,7 @@ sections:
         for  knowledge
       button: Join their adventures now
       alt: Image alt text
-      image: /images/merry-excercise.gif
+      image: /images/Website/home_comics.png
       url: images/Website/favicon_64.jpg
   - infobar:
       button: Get in touch with us!
