@@ -8,7 +8,6 @@ description: Yummy Buddies is created by Educational Technology Division - Media
 **Educational Technology Division<br>
 Media Design for Learning Branch**<br>
 
-### Why we do this
 We noticed that there are plenty of wonderful resources on the great wide Web. 
 ![the problem](/images/Comics/Website/educator_overview.jpg)
 
