@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - The Yummy Buddies.md
+      - Yummy Buddies.md
       - Contact us.md
