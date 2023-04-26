@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/yummy_buddies_slider_frog_1920_720_text.jpg
+      background: /images/Website/yummy_buddies_slider_frog_1920_720_text.jpg
   - infopic:
       title: "Yummy Buddies: Comics"
       description: Light-hearted, character-driven comic strips that follow the Yummy
