@@ -19,9 +19,9 @@ sections:
       image: /images/merry-excercise.gif
       url: images/Website/favicon_64.jpg
   - infobar:
-      description: Got a tasty idea for the next Yummy Buddies adventure? We’d love to
-        hear it !
+      description: We’d love to hear it !
       button: Get in touch with us!
       url: /contact
-      title: Interested to collaborate with us?
+      title: Got a tasty idea for the next Yummy Buddies adventure?
+      subtitle: Interested to collaborate?
 ---
