@@ -1,5 +1,5 @@
 collections:
-  resources:
+  comics:
     output: true
     order:
       - Comics.md
