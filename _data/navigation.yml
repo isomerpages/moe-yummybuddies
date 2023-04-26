@@ -20,4 +20,8 @@ links:
         url: /animations
   - title: For educators
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Overview
+        url: /for-educators/overview
+      - title: Why use the Yummy Buddies?
+        url: /for-educators/why
