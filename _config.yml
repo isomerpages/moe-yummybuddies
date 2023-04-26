@@ -2,8 +2,8 @@ title: Yummy Buddies
 url: https://yummybuddies.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#ff6600"
-  secondary-color: "#1b2855"
+  primary-color: "#1b2855"
+  secondary-color: "#ff6600"
   media-colors:
     - title: media-color-one
       color: "#49759a"
