@@ -2,4 +2,5 @@ collections:
   for-educators:
     output: true
     order:
+      - Why use the Yummy Buddies?.md
       - Overview.md
