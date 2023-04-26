@@ -4,7 +4,6 @@ permalink: /for-educators/team/
 description: Yummy Buddies is created by Educational Technology Division - Media
   Design for Learning Branch.
 ---
-### The Team
 The Yummy Buddies is an initiative by <br>
 **Educational Technology Division<br>
 Media Design for Learning Branch**<br>
