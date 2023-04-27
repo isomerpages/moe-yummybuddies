@@ -2,4 +2,5 @@ collections:
   guess-who:
     output: true
     order:
+      - Square.md
       - Round.md
