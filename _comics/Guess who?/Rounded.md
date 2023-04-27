@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Guess who?
 ---
 ![](/images/Comics/Guess%20who/comics_bouncy_intro_01.jpg)
+<img src="/images/Comics/Guess%20who/comics_bouncy_intro_01.jpg" style="width:30%">
+
+<img src="/images/Comics/Guess%20who/comics_bouncy_intro_02.jpg" style="width:30%">
 
 ![](/images/Comics/Guess%20who/comics_bouncy_intro_02.jpg)
 
