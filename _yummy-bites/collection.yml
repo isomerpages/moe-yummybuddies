@@ -2,10 +2,10 @@ collections:
   yummy-bites:
     output: true
     order:
-      - Bouncy/Cold VS Hot.md
-      - Bouncy/Hot soup.md
-      - Bouncy/Family.md
       - Bouncy/.keep
+      - Bouncy/Family.md
+      - Bouncy/Hot soup.md
+      - Bouncy/Cold VS Hot.md
       - Merry/.keep
       - Merry/Merry 1.md
       - Flip/.keep
