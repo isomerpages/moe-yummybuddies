@@ -3,8 +3,10 @@ title: Stay connected
 permalink: /for-educators/stay-connected/
 description: Drop us an email and we will notify you when there’s new Yummy contents!
 ---
+### Subscribe to our mailing list
+
 ![stay connected](/images/Website/educator_stay_connected.jpg)
 
-We are working with different partners to create educational contents for Yummy Buddies.
+We are constantly working with different collaboration partners to create educational contents for Yummy Buddies. 
 
-Drop us a message [here](https://yummybuddies.sg) and we will notify you when there are new contents.
+If you are interested to be notified when there are new contents, simply drop us a message [here](https://yummybuddies.sg). (*We promise we won't spam you.*)
