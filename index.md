@@ -10,11 +10,11 @@ sections:
   - hero:
       background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
   - infopic:
-      title: Comics
-      description: Light-hearted, character-driven comic strips that follow the Yummy
-        Buddies on their everyday adventures and their  never-ending quest
+      title: Yummy Comics
+      description: A light-hearted, character-driven comic strips that follow the
+        Yummy Buddies on their everyday adventures and their  never-ending quest
         for  knowledge
-      button: Join their adventures now
+      button: Let's go
       alt: home_comics
       image: /images/Website/home_comics.png
       url: /comics
@@ -26,7 +26,7 @@ sections:
       alt: home_game
       image: /images/Website/home_game.png
   - infobar:
-      button: Get in touch with us!
+      button: Get in touch!
       url: /contact-us
       title: Got a tasty idea for the next Yummy Buddies adventure?
       subtitle: Interested to collaborate?
