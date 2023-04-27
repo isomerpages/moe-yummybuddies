@@ -2,6 +2,7 @@ collections:
   comics-yummy-moments:
     output: true
     order:
+      - Guess who?/Guess who? Bouncy!.md
       - Guess who?/.keep
       - Bouncy/.keep
       - Bouncy/Guess who?.md
