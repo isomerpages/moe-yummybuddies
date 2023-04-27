@@ -2,8 +2,8 @@ collections:
   yummy-moments:
     output: true
     order:
-      - Guess who?/Round.md
-      - Guess who?/.keep
+      - Guess who am I?/Round.md
+      - Guess who am I?/.keep
       - Bouncy/.keep
       - Bouncy/Guess who?.md
       - Merry/.keep
