@@ -3,6 +3,8 @@ title: FAQs
 permalink: /for-educators/faq/
 description: Frequently asked questions on the Yummy Buddies and collaboration.
 ---
+![faq](/images/Website/educator_faq.jpg)
+
 <ul class="jekyllcodex\_accordion">  
   
 <li><input type="checkbox" id="accordion1">  
