@@ -9,10 +9,6 @@ links:
         url: /about/characters/
       - title: Share your ideas
         url: /about/share-ideas/
-  - title: Comics
-    url: /comics
-  - title: Games
-    url: /games
   - title: For educators
     url: /for-educators/overview/
     sublinks:
@@ -26,3 +22,15 @@ links:
         url: /for-educators/collaborate
       - title: FAQ
         url: /for-educators/faq/
+  - title: Comics
+    url: /comics
+    sublinks:
+      - title: The Yummy Buddies
+        url: /comics
+      - title: Learn something
+        url: /comics
+  - title: Games
+    url: /games
+    sublinks:
+      - title: SLS Games
+        url: /games
