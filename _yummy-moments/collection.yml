@@ -2,7 +2,6 @@ collections:
   yummy-moments:
     output: true
     order:
-      - Guess who?/Square.md
       - Guess who?/Round.md
       - Guess who?/.keep
       - Bouncy/.keep
