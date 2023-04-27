@@ -23,7 +23,7 @@ Will you support them and read the Yummy Buddies comics?
 <li><input id="accordion2" type="checkbox">  
 <label for="accordion2">No, maybe next time.</label><div>  
 <p><img src="/images/Characters/poodle-no.gif" style="width:30%" align="left">
-<br><br>Please read at least 1 comic here.</p>  
+<br><br><br><br><br><br>Please read at least 1 comic here.</p>  
 </div></li>  
   
 </ul>
