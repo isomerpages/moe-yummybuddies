@@ -9,7 +9,7 @@ description: Light-hearted, character-driven comic strips that follow the Yummy
 The Yummy Buddies comics are light-hearted, character-driven comic strips that follow the Yummy Buddies on their everyday adventures and their&nbsp;never-ending quest for&nbsp;knowledge.
 
 ### Who will read the comics?
-![comics](/images/Comics/comics.jpg)
+![](/images/Comics/Website/comics.jpg)
 
 Will you support them and read the Yummy Buddies comics?
 
