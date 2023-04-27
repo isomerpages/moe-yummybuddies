@@ -2,7 +2,6 @@ collections:
   yummy-bites:
     output: true
     order:
-      - Guess who?/.keep
       - Bouncy/.keep
       - Bouncy/Guess who?.md
       - Merry/.keep
