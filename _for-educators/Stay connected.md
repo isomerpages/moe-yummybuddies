@@ -3,7 +3,7 @@ title: Stay connected
 permalink: /for-educators/stay-connected/
 description: Drop us an email and we will notify you when there’s new Yummy contents!
 ---
-### Subscribe to our mailing list
+### Stay connected via our mailing list
 
 ![stay connected](/images/Website/educator_stay_connected.jpg)
 
