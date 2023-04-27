@@ -12,10 +12,14 @@ links:
   - title: Comics
     url: /comics
     sublinks:
-      - title: Yummy Moments
-        url: /comics/guess-who/round/
-      - title: Learn something
-        url: /comics
+      - title: Yummy Bites
+        url: /yummy-bites/bouncy/siblings/
+      - title: Guess who
+        url: /guess-who/round/
+      - title: Mind your language
+        url: /permalink
+      - title: Live & Learn
+        url: /permalink
   - title: Games
     url: /games
     sublinks:
