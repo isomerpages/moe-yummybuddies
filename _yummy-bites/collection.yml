@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Bouncy/.keep
-      - Bouncy/Guess who?.md
       - Merry/.keep
       - Merry/Merry 1.md
       - Flip/.keep
