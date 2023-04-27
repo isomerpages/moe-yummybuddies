@@ -9,15 +9,10 @@ links:
         url: /about/characters/
       - title: Share your ideas
         url: /about/share-ideas/
-  - title: Resources
-    url: /resources/
-    sublinks:
-      - title: Comics
-        url: /comics/
-      - title: Games
-        url: /games/
-      - title: Animations
-        url: /animations/
+  - title: Comics
+    url: /comics
+  - title: Games
+    url: /games
   - title: For educators
     url: /for-educators/overview/
     sublinks:
