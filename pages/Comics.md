@@ -13,7 +13,7 @@ The Yummy Buddies comics are light-hearted, character-driven comic strips that f
 
 Will you support them and read the Yummy Buddies comics?
 
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   
 <li><input id="accordion1" type="checkbox">  
 <label for="accordion1">Yes! Of course!</label><div>  
