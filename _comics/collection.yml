@@ -1,5 +1,5 @@
 collections:
-  yummy-moments:
+  comics:
     output: true
     order:
       - Bouncy/.keep
