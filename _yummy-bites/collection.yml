@@ -1,5 +1,5 @@
 collections:
-  yummy-moments:
+  yummy-bites:
     output: true
     order:
       - Guess who?/Round.md
