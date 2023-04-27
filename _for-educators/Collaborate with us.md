@@ -5,7 +5,7 @@ description: We welcome ideas, feedback, suggestions for improvement and most of
   all, collaboration opportunities. Get in touch with us, and let’s work
   together to make learning come alive!
 ---
-![educator collaborate](/images/Characters/educator_collab.jpg)
+![collaborate](/images/Website/educator_collab.jpg)
 
 We welcome ideas, feedback, suggestions for improvement and most of all, collaboration opportunities. 
 
