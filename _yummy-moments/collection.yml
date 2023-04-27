@@ -1,5 +1,5 @@
 collections:
-  comics:
+  yummy-moments:
     output: true
     order:
       - Guess who?/Rounded.md
