@@ -2,6 +2,7 @@ collections:
   comics:
     output: true
     order:
+      - Yummy Moments/.keep
       - Bouncy/.keep
       - Bouncy/Bouncy 1.md
       - Merry/.keep
