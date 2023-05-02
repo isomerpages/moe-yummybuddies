@@ -87,7 +87,7 @@ third_nav_title: Bouncy
     </tbody>
     </table></div>
 
----END OF CODE---
+---END OF USING TABLE---
 | | |
 |:-:|:-:|
 |<img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_01.jpg" style="width:100%">|<img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_02.jpg" style="width:100%">|
