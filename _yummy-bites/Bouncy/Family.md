@@ -17,8 +17,8 @@ third_nav_title: Bouncy
     <div class="tg-wrap"><table class="tg">
     <tbody>
       <tr>
-        <td class="tg-0pky">1</td>
-        <td class="tg-0pky">2</td>
+        <td class="tg-0pky"><img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_01.jpg" style="width:100%"></td>
+        <td class="tg-0pky"><img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_02.jpg" style="width:100%"></td>
       </tr>
       <tr>
         <td class="tg-0pky"></td>
