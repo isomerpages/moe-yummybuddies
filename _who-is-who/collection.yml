@@ -1,5 +1,5 @@
 collections:
-  whos-who:
+  who-is-who:
     output: true
     order:
       - Round.md
