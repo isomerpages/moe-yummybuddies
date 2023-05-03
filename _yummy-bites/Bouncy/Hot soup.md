@@ -5,17 +5,20 @@ description: ""
 third_nav_title: Bouncy
 ---
 ### Hot soup
-@media only screen and (max-width: 480px) { .full { display:block; width:100%; } }
-<table width="100%" dir="rtl">
+<style>
+@media screen and (max-width:600px) { .block {display: block !important; width: 100% !important; }
+}
+</style>
+<table style="width:600px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td class="full" dir="ltr" width="50%">
-<p>Right-hand side content: Stacks on top on mobile</p>
+<td width="50%" style="" valign="top" align="left" class="block">
+<img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_soup_01.jpg">
 </td>
-<td class="full" dir="ltr" width="50%">
-<p>Left-hand side content: Stacks underneath on mobile</p>
-
-
-</td></tr></tbody></table>
+<td width="50%" style="" valign="top" align="left" class="block">
+<img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_soup_01.jpg"></td>
+</tr>
+</tbody></table>
+---STOP HTML---
 
 <img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_soup_01.jpg" style="width:70%">
 <br>
