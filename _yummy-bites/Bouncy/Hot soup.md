@@ -46,10 +46,6 @@ third_nav_title: Bouncy
 
 
 --3--
-<style>
-@media screen and (max-width:600px) { .block {display: block !important; width: 100% !important; }
-}
-</style>
 <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:600px;">
 <tbody><tr>
 <td class="block" align="left" valign="top" style="" width="50%">
