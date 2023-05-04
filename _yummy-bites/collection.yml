@@ -2,6 +2,7 @@ collections:
   yummy-bites:
     output: true
     order:
+      - Bouncy/4 seasons in Singapore.md
       - Bouncy/Cousins.md
       - Bouncy/.keep
       - Bouncy/Family.md
