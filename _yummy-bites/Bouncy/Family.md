@@ -5,9 +5,14 @@ description: ""
 third_nav_title: Bouncy
 ---
 ### Family
-<img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_01.jpg" style="width:80%">
+<img src="/images/Comics/Yummy%20Bites/Merry/comics_merry_blood_01.jpg" style="width:80%">
 <br>
-<img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_02.jpg" style="width:80%">
-<br><img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_03.jpg" style="width:80%">
+<img src="/images/Comics/Yummy%20Bites/Merry/comics_merry_blood_02.jpg" style="width:80%">
 <br>
-How alike are you and your family members? Even though I look very different from my parents, and my siblings and I have different personalities, we are one big happy family!
+<img src="/images/Comics/Yummy%20Bites/Merry/comics_merry_blood_03.jpg" style="width:80%">
+<br>
+<img src="/images/Comics/Yummy%20Bites/Merry/comics_merry_blood_04.jpg" style="width:80%">
+<br>
+<img src="/images/Comics/Yummy%20Bites/Merry/comics_merry_blood_05.jpg" style="width:80%">
+<br>
+When we don’t have all the facts, our minds often imagine the worst! Try to find out as much as possible instead of jumping to conclusions.
