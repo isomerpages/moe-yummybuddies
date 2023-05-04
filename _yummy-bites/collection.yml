@@ -2,6 +2,7 @@ collections:
   yummy-bites:
     output: true
     order:
+      - Bouncy/Cousins.md
       - Bouncy/.keep
       - Bouncy/Family.md
       - Bouncy/Hot soup.md
