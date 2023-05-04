@@ -2,12 +2,12 @@ collections:
   yummy-bites:
     output: true
     order:
-      - Bouncy/4 seasons in Singapore.md
-      - Bouncy/Cousins.md
       - Bouncy/.keep
       - Bouncy/Family.md
       - Bouncy/Hot soup.md
       - Bouncy/Cold VS Hot.md
+      - Bouncy/Cousins.md
+      - Bouncy/4 seasons in Singapore.md
       - Merry/.keep
       - Merry/Merry 1.md
       - Flip/.keep
