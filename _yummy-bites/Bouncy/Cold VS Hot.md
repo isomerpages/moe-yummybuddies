@@ -4,7 +4,6 @@ permalink: /yummy-bites/bouncy/cold-vs-hot/
 description: ""
 third_nav_title: Bouncy
 ---
-### Cold VS Hot
 <img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_hot-cold-01.jpg" style="width:80%">
 <br>
 <img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_hot-cold-02.jpg" style="width:80%">
