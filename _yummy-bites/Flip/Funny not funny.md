@@ -12,4 +12,4 @@ third_nav_title: Flip
 <br>
 <img src="/images/Comics/Yummy%20Bites/Flip/comics_funny_not_funny_04.jpg" style="width:80%">
 <br>
-Doesn’t seem so funny now…
+Doesn’t seem so funny when it happens to you.
