@@ -16,10 +16,10 @@ links:
         url: /guess-who/round/
       - title: Yummy Bites
         url: /yummy-bites/bouncy/family
-      - title: Students' Submissions
-        url: /students-submissions/magnet/
       - title: Lingo Boost
         url: /permalink
+      - title: Students' Submissions
+        url: /students-submissions/magnet/
   - title: Games
     url: /games
     sublinks:
