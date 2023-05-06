@@ -4,7 +4,6 @@ permalink: /yummy-bites/bouncy/family/
 description: ""
 third_nav_title: Bouncy
 ---
-### Family
 <img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_01.jpg" style="width:80%">
 <br>
 <img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_02.jpg" style="width:80%">
