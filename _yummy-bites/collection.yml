@@ -2,7 +2,6 @@ collections:
   yummy-bites:
     output: true
     order:
-      - Bouncy/Frog.md
       - Bouncy/.keep
       - Bouncy/Family.md
       - Bouncy/Hot soup.md
@@ -10,6 +9,7 @@ collections:
       - Bouncy/Cousins.md
       - Bouncy/4 seasons in Singapore.md
       - Bouncy/Free Download.md
+      - Bouncy/Frog.md
       - Merry/Fly kite.md
       - Merry/Yikes!.md
       - Merry/.keep
