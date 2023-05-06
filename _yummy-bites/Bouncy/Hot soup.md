@@ -4,7 +4,6 @@ permalink: /yummy-bites/bouncy/hot-soup/
 description: ""
 third_nav_title: Bouncy
 ---
-### Hot soup
 <img style="width:80%" src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_soup_01.jpg">
 <br>
 <img style="width:80%" src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_soup_02.jpg">
