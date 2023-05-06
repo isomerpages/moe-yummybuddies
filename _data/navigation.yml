@@ -12,13 +12,13 @@ links:
   - title: Comics
     url: /comics
     sublinks:
-      - title: Yummy Bites
-        url: /yummy-bites/bouncy/family
       - title: Guess who
         url: /guess-who/round/
-      - title: Lingo Boost
-        url: /permalink
+      - title: Yummy Bites
+        url: /yummy-bites/bouncy/family
       - title: Students' Submissions
+        url: /students-submissions/magnet/
+      - title: Lingo Boost
         url: /permalink
   - title: Games
     url: /games
