@@ -1,4 +1,5 @@
 collections:
   students-submissions:
     output: true
-    order: []
+    order:
+      - Magnet.md
