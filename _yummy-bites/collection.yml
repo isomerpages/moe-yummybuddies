@@ -2,13 +2,13 @@ collections:
   yummy-bites:
     output: true
     order:
-      - Bouncy/Free Download.md
       - Bouncy/.keep
       - Bouncy/Family.md
       - Bouncy/Hot soup.md
       - Bouncy/Cold VS Hot.md
       - Bouncy/Cousins.md
       - Bouncy/4 seasons in Singapore.md
+      - Bouncy/Free Download.md
       - Merry/Fly kite.md
       - Merry/Yikes!.md
       - Merry/.keep
