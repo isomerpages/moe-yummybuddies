@@ -1,4 +1,5 @@
 collections:
   lingo-boost:
     output: true
-    order: []
+    order:
+      - Confusing Word Pairs/.keep
