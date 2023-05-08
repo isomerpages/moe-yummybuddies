@@ -15,4 +15,3 @@ Will you support them and read the Yummy Buddies comics?
 
 [CTA banner to read comics]
 [here](/yummy-bites/bouncy/family/)
-
