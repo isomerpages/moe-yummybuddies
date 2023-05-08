@@ -2,5 +2,6 @@ collections:
   buddy-basics:
     output: true
     order:
+      - Stick.md
       - Round.md
       - Square.md
