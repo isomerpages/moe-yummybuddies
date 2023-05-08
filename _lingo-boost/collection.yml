@@ -2,4 +2,5 @@ collections:
   lingo-boost:
     output: true
     order:
+      - Confusing Word Pairs/It's vs its.md
       - Confusing Word Pairs/.keep
