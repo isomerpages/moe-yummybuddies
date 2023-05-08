@@ -16,3 +16,5 @@ third_nav_title: Confusing Word Pairs
 <br>
 <img src="/images/Comics/Lingo%20Boost/Confusing%20Word%20Pairs/ellb_its_06.jpg" style="width:80%">
 <br>
+
+Play the SLS Game!
