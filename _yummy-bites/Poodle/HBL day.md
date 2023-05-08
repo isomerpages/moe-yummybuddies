@@ -14,4 +14,4 @@ third_nav_title: Poodle
 <br>
 <img src="/images/Comics/Yummy%20Bites/Poodle/comics_poodle_hbl_05.jpg" style="width:80%">
 <br>
-Write important dates, like HBL day or other school events, in your student handbook or diary.
+Write important dates, like **Home-based learning day** or other school **events**, in your student handbook or diary.
