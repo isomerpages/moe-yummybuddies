@@ -9,4 +9,4 @@ description: Drop us an email and we will notify you when there’s new Yummy co
 
 We are constantly working with different collaboration partners to create educational contents for Yummy Buddies. 
 
-If you are interested to be notified when there are new contents, simply drop us a message [here](https://yummybuddies.sg). (*We promise we won't spam you.*)
+If you are interested to be notified when there are new contents, simply drop us a message [here](https://go.gov.sg/yummybuddies-edm). (*We promise we won't spam you.*)
