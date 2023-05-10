@@ -7,15 +7,15 @@ description: We welcome ideas, feedback, suggestions for improvement and most of
 ---
 ![collaborate](/images/Website/educator_collab.jpg)
 
-We welcome ideas, feedback, suggestions for improvement and most of all, collaboration opportunities. 
+We welcome ideas, feedback, and collaboration opportunities.
 
-These are the different formats we have for Yummy Buddies:
-
+Yummy Buddies formats:
 * Animations
 * Comics & Concept Cartoons
 * Web Games
 * SLS Gamified Courses
 * Whatsapp sticker packs
 
-Get in touch with us, and let’s work together to make learning 
-come alive!
+If you have an idea for the Yummy Buddies, let’s work together to make learning come alive! 
+
+**[Get in touch now!](https://go.gov.sg/yummybuddies-contact-us)**
