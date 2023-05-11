@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Spot the difference
 ---
 ### Spot 5 differences!
-[insert image]
+<img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_01.jpg" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
   
