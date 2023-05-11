@@ -21,8 +21,6 @@ links:
         url: /games/web-games/pigeon-break/
       - title: Spot the difference
         url: /games/spot-the-difference/yummy-buddies/
-  - title: 3D Demo
-    url: /3d-demo
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
@@ -43,3 +41,8 @@ links:
         url: /your-ideas/featured-comics/magnet/
       - title: How to submit?
         url: /your-ideas/how-to-submit/
+  - title: Animations
+    url: /animations/3d-series/
+    sublinks:
+      - title: 3D Series
+        url: /animations/3d-series/
