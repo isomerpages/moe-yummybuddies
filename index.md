@@ -16,7 +16,7 @@ sections:
       button: Let's go
       alt: home_comics
       image: /images/Website/home_comics.png
-      url: /comics
+      url: /yummy-bites/bouncy/family/
   - infopic:
       title: Game on!
       description: Go on a quest with the Yummy Buddies in our web game series on SLS!
