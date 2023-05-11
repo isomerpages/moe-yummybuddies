@@ -2,4 +2,4 @@ collections:
   games:
     output: true
     order:
-      - SLS Games/.keep
+      - Web Games/.keep
