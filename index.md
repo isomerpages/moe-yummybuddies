@@ -28,5 +28,5 @@ sections:
       button: Get in touch!
       url: /contact-us
       title: Got a tasty idea for the next Yummy Buddies adventure?
-      subtitle: Interested to collaborate?
+      subtitle: Let's collaborate!
 ---
