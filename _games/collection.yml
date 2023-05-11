@@ -2,6 +2,6 @@ collections:
   games:
     output: true
     order:
-      - Spot the difference/The Yummy Buddies.md
-      - Spot the difference/.keep
       - Web Games/.keep
+      - Spot the difference/.keep
+      - Spot the difference/The Yummy Buddies.md
