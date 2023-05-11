@@ -1,4 +1,5 @@
 collections:
   your-ideas:
     output: true
-    order: []
+    order:
+      - Featured Comics/.keep
