@@ -16,13 +16,13 @@ links:
         url: /yummy-bites/bouncy/family
       - title: Lingo Boost
         url: /lingo-boost/confusing-word-pairs/its-vs-its/
-      - title: Students' Submissions
-        url: /students-submissions/magnet/
   - title: Games
     url: /games
     sublinks:
       - title: SLS Games
         url: /games
+  - title: 3D Demo
+    url: /3d-demo
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
@@ -36,5 +36,3 @@ links:
         url: /for-educators/collaborate
       - title: FAQ
         url: /for-educators/faq/
-  - title: 3D Demo
-    url: /3d-demo
