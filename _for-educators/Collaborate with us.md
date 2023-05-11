@@ -11,11 +11,11 @@ We welcome ideas, feedback, and collaboration opportunities.
 
 Yummy Buddies formats:
 * Animations
-* Comics & Concept Cartoons
+* Comics &amp; Concept Cartoons
 * Web Games
 * SLS Gamified Courses
 * Whatsapp sticker packs
 
 If you have an idea for the Yummy Buddies, let’s work together to make learning come alive! 
 
-**[Get in touch now!](https://go.gov.sg/yummybuddies-contact-us)**
+<a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us">**Get in touch now!**</a>
