@@ -11,9 +11,8 @@ sections:
       background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
   - infopic:
       title: Yummy Comics
-      description: A light-hearted, character-driven comic strips that follow the
-        Yummy Buddies on their everyday adventures and their  never-ending quest
-        for  knowledge
+      description: Read about the Yummy Buddies’ everyday adventures and their
+        never-ending quest for knowledge!
       button: Let's go
       alt: home_comics
       image: /images/Website/home_comics.png
