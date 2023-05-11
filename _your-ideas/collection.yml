@@ -2,6 +2,6 @@ collections:
   your-ideas:
     output: true
     order:
-      - Share your ideas.md
-      - Featured Comics/Magnet by Kai Xuan, Geylang Methodist School (Primary).md
       - Featured Comics/.keep
+      - Featured Comics/Magnet by Kai Xuan, Geylang Methodist School (Primary).md
+      - Share your ideas.md
