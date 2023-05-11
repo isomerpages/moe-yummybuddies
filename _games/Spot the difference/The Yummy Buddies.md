@@ -10,7 +10,7 @@ third_nav_title: Spot the difference
 <ul class="jekyllcodex_accordion">
   
 <li><input type="checkbox" id="accordion1">  
-<label for="accordion1">Show answer!
+<label for="accordion1">I give up! Show me the answer!
 </label><div>  
 <p><img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_01.jpg" style="width:80%">
 </p>  
