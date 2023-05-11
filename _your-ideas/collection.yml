@@ -1,0 +1,4 @@
+collections:
+  your-ideas:
+    output: true
+    order: []
