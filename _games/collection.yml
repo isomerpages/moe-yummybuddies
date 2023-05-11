@@ -2,4 +2,5 @@ collections:
   games:
     output: true
     order:
+      - Spot the difference/.keep
       - Web Games/.keep
