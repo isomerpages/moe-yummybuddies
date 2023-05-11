@@ -17,4 +17,4 @@ But they aren't always pitched appropriately, or tailored to the Singaporean con
 We aim to address these pain points by creating quality resources curated by and created in partnership with experts in their fields and aligned with MOE curriculum and localised to the Singaporean context.
 
 ### What we believe in?
-Yummy Buddies can become digital influencers that can engage first before educate.
+Yummy Buddies can become digital influencers that can engage to educate.
