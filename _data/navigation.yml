@@ -36,3 +36,10 @@ links:
         url: /for-educators/collaborate
       - title: FAQ
         url: /for-educators/faq/
+  - title: Your Ideas
+    url: /your-ideas/featured-comics/magnet/
+    sublinks:
+      - title: Featured comics
+        url: /your-ideas/featured-comics/magnet/
+      - title: How to submit?
+        url: /your-ideas/how-to-submit/
