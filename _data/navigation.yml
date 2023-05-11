@@ -19,8 +19,10 @@ links:
   - title: Games
     url: /games/web-games/pigeon-break/
     sublinks:
-      - title: SLS Games
+      - title: Web Games
         url: /games/web-games/pigeon-break/
+      - title: Spot the difference
+        url: /games/spot-the-difference/yummy-buddies/
   - title: 3D Demo
     url: /3d-demo
   - title: For educators
