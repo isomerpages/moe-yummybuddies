@@ -12,7 +12,7 @@ third_nav_title: Spot the difference
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">Show answer!
 </label><div>  
-<p>![](/images/merry-excercise.gif)
+<p><img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_siblings_01.jpg" style="width:80%">
 </p>  
 </div></li>  
 
