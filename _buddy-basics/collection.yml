@@ -1,0 +1,10 @@
+collections:
+  buddy-basics:
+    output: true
+    order:
+      - Triangle.md
+      - Green.md
+      - Woof.md
+      - Stick.md
+      - Round.md
+      - Square.md

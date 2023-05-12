@@ -1,0 +1,10 @@
+collections:
+  for-educators:
+    output: true
+    order:
+      - Why use the Yummy Buddies?.md
+      - The Team.md
+      - Stay connected.md
+      - Comics.md
+      - Collaborate with us.md
+      - FAQs.md

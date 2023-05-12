@@ -1,15 +1,48 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Website/yummy_buddies_logo_512.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About
+    url: /about/yummy-buddies/
+    sublinks:
+      - title: The Yummy Buddies
+        url: /about/yummy-buddies/
+      - title: Characters
+        url: /about/characters/
+  - title: Comics
+    url: /comics
+    sublinks:
+      - title: Yummy Bites
+        url: /yummy-bites/bouncy/family
+      - title: Lingo Boost
+        url: /lingo-boost/confusing-word-pairs/its-vs-its/
+  - title: Games
+    url: /games/web-games/pigeon-break/
+    sublinks:
+      - title: Web Games
+        url: /games/web-games/pigeon-break/
+      - title: Spot the difference
+        url: /games/spot-the-difference/yummy-buddies/
+  - title: For educators
+    url: /for-educators/why-use-the-yummy-buddies/
+    sublinks:
+      - title: Why use the Yummy Buddies?
+        url: /for-educators/why-use-the-yummy-buddies/
+      - title: The Team
+        url: /for-educators/team/
+      - title: Stay connected
+        url: /for-educators/stay-connected/
+      - title: Collaborate with us
+        url: /for-educators/collaborate
+      - title: FAQ
+        url: /for-educators/faq/
+  - title: Your Ideas
+    url: /your-ideas/featured-comics/magnet/
+    sublinks:
+      - title: Featured comics
+        url: /your-ideas/featured-comics/magnet/
+      - title: How to submit?
+        url: /your-ideas/how-to-submit/
+  - title: Animations
+    url: /animations/3d-series/
+    sublinks:
+      - title: 3D Series
+        url: /animations/3d-series/

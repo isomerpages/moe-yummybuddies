@@ -1,32 +1,32 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Yummy Buddies
+description: Join the Yummy Buddies on an educational adventure filled with
+  laughter, discovery, and growth!
+image: /images/Website/favicon_64.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
+  - infopic:
+      title: Yummy Comics
+      description: Read about the Yummy Buddies’ everyday adventures and their
+        never-ending quest for knowledge!
+      button: Let's go
+      alt: home_comics
+      image: /images/Website/home_comics.png
+      url: /yummy-bites/bouncy/family/
+  - infopic:
+      title: Game on!
+      description: Go on a quest with the Yummy Buddies in our web game series on SLS!
+      button: Start now
+      url: /games
+      alt: home_game
+      image: /images/Website/home_game.png
+  - infobar:
+      button: Get in touch!
+      url: /contact-us
+      title: Got a tasty idea for the next Yummy Buddies adventure?
+      subtitle: Let's collaborate!
 ---
-
