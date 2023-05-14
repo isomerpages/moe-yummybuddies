@@ -11,4 +11,4 @@ Do you have ideas for a comics story for the Yummy Buddies?
 
 Share it with us and selected ideas will be created into our comics!
 
-Submit your sketches here.
+<a href="default.asp"><img alt="" src="/images/Website/cta_submit.jpg"></a>
