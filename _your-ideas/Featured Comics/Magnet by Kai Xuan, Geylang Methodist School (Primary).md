@@ -13,10 +13,9 @@ third_nav_title: Featured Comics
 <img src="/images/Comics/Students'%20Submission/comics_msg_magnet_04.jpg" style="width:80%">
 <br>
 
-**Original idea from**<br>
+**Idea from:**<br>
 Name: Kai Xuan (P3)<br>
 School: Geylang Methodist School (Primary)
 <img src="/images/Comics/Students'%20Submission/student_magnet.jpg" style="width:100%">
 <br>
-
-[CTA Banner to our form]
+<a href="https://go.gov.sg/yummybuddies-submit"><img alt="" src="/images/Website/cta_submit.jpg"></a>
