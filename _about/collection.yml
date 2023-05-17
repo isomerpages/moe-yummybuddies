@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Characters.md
       - The Yummy Buddies.md
+      - Characters.md
       - Characters2.md
