@@ -5,10 +5,10 @@ links:
     sublinks:
       - title: The Yummy Buddies
         url: /about/yummy-buddies/
-      - title: Characters
-        url: /about/characters/
+      - title: The Characters
+        url: /about/the-characters/
   - title: Comics
-    url: /comics
+    url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
     sublinks:
       - title: Yummy Bites
         url: /yummy-bites/bouncy/family

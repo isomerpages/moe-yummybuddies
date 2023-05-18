@@ -9,6 +9,6 @@ description: Drop us an email and we will notify you when there’s new Yummy co
 
 We are constantly working with different collaboration partners to create educational contents for Yummy Buddies. 
 
-If you are interested to be notified when there are new contents, simply drop us a message <a target="_blank" href="https://go.gov.sg/yummybuddies-edm">here</a>. (*We promise we won't spam you.*)
+If you are interested to be notified when there are new contents, simply join our mailing list. <br>(*We promise we won't spam you.*)
 
-https://go.gov.sg/yummybuddies-edm
+<a href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/cta_mailing_list.jpg"></a>
