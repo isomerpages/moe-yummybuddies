@@ -10,5 +10,4 @@ description: ""
 Join the Yummy Buddies in hard-to-access locations as 
 they try to make sense of complex concepts.
 
-On their adventures, they encounter challenges that require their quick wits, critical thinking, problem-solving, creativity, and communication skills to overcome. 
-
+On their adventures, they encounter challenges that require their quick wits, critical thinking, problem-solving, creativity, and communication skills to overcome.
