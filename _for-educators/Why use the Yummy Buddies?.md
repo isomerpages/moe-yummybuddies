@@ -26,7 +26,16 @@ Join the Yummy Buddies on an educational adventure filled with laughter, discove
 ### Yummy Buddies as role model
 ![](/images/Website/educator_comics.jpg)
 
-### What is the comics about?
-The Yummy Buddies comics are light-hearted, character-driven comic strips that follow the Yummy Buddies on their everyday adventures and their&nbsp;never-ending quest for&nbsp;knowledge.
+### Why we created the Yummy Buddies?
+We noticed that there are plenty of wonderful resources on the great wide Web. 
+![the problem](/images/Comics/Website/educator_overview.jpg)
+
+But they aren't always pitched appropriately, or tailored to the Singaporean context, or they come from different websites so it's hard to have continuity and coherence.
+
+We aim to address these pain points by creating quality resources curated by and created in partnership with experts in their fields and aligned with MOE curriculum and localised to the Singaporean context.
 
 <a href="/yummy-bites/bouncy/family/"><img alt="" src="/images/Website/cta_comics.jpg"></a>
+
+### Created by
+**Educational Technology Division<br>
+Media Design for Learning Branch**<br>
