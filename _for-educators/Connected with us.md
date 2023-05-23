@@ -11,8 +11,25 @@ We are constantly working with different collaboration partners to create educat
 
 If you are interested to be notified when there are new contents, simply join our mailing list. <br>(*We promise we won't spam you.*)
 
-<a href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/cta_mailing_list.jpg"></a>
+    | ![](/images/Website/btn_collab.png)  |  ![](/images/Website/btn_mailing_list.png) |
+    |---|---|
 
-![collaborate](/images/Website/educator_collab.jpg)
 
 <a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us">**Get in touch now!**</a>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+<tr>
+<td class="tg-0pky"></td>
+<td class="tg-0pky"></td>
+</tr>
+</thead>
+</table>
