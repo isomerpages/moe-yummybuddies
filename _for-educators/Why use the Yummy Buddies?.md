@@ -23,7 +23,7 @@ With their different personalities and quirks, the Yummy Buddies represent a ran
 
 Join the Yummy Buddies on an educational adventure filled with laughter, discovery, and growth!
 
-### Yummy Buddies as role model
+### Yummy Buddies as role models
 ![](/images/Website/educator_comics.jpg)
 
 ### Why we created the Yummy Buddies?
@@ -35,7 +35,3 @@ But they aren't always pitched appropriately, or tailored to the Singaporean con
 We aim to address these pain points by creating quality resources curated by and created in partnership with experts in their fields and aligned with MOE curriculum and localised to the Singaporean context.
 
 <a href="/yummy-bites/bouncy/family/"><img alt="" src="/images/Website/cta_comics.jpg"></a>
-
-### Created by
-**Educational Technology Division<br>
-Media Design for Learning Branch**<br>
