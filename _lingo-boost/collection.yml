@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Confusing Word Pairs/.keep
-      - Confusing Word Pairs/It's vs its.md
+      - Confusing Word Pairs/It's vs Its.md
       - Confusing Word Pairs/Past vs Passed.md
       - Confusing Word Pairs/Lose vs Loose.md
       - Confusing Word Pairs/Everyday vs Every Day.md
