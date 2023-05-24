@@ -27,7 +27,7 @@ Join the Yummy Buddies on an educational adventure filled with laughter, discove
 ![](/images/Website/educator_comics.jpg)
 
 ### Why we created the Yummy Buddies?
-We noticed that there are plenty of wonderful resources on the great wide Web. 
+We know that there are plenty of wonderful resources on the great wide Web. 
 ![the problem](/images/Comics/Website/educator_overview.jpg)
 
 But they aren't always pitched appropriately, or tailored to the Singaporean context, or they come from different websites so it's hard to have continuity and coherence.
