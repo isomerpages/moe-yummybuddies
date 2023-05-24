@@ -7,9 +7,10 @@ description: Drop us an email and we will notify you when there’s new Yummy co
 
 ![stay connected](/images/Website/educator_stay_connected.jpg)
 
-We are constantly working with different collaboration partners to create educational contents for Yummy Buddies. 
+We are constantly working on new educational content for the Yummy Buddies.
 
-If you are interested to be notified when there are new contents, simply join our mailing list. <br>(*We promise we won't spam you.*)
+If you would like to be notified when there is new content, simply join our mailing list.
+(No spam. We promise!)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
