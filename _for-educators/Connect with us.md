@@ -4,12 +4,10 @@ permalink: /for-educators/connect-with-us/
 description: Drop us an email and we will notify you when there’s new Yummy contents!
 ---
 ### Connect with us
-
 ![stay connected](/images/Website/educator_stay_connected.jpg)
-
-We are constantly working on new educational content for the Yummy Buddies.
-
-If you would like to be notified when there is new content, simply join our mailing list.
+We are constantly working on new educational content for the Yummy Buddies.  
+  
+Whether it’s a suggestion or an idea for the Yummy Buddies, let us know what’s on your mind! If you would like to be notified when there is new content, simply join our mailing list.
 (No spam. We promise!)
 
 <style type="text/css">
