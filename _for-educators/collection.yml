@@ -2,7 +2,6 @@ collections:
   for-educators:
     output: true
     order:
-      - Folder/.keep
       - Why use the Yummy Buddies?.md
       - Connected with us.md
       - FAQs.md
