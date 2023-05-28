@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Featured Comics/.keep
-      - Featured Comics/Magnet by Kai Xuan, Geylang Methodist School (Primary).md
+      - Featured Comics/Magnets by Kai Xuan, Geylang Methodist School
+        (Primary).md
       - How to submit?.md
