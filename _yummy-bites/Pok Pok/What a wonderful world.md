@@ -12,4 +12,4 @@ third_nav_title: Pok Pok
 <br>
 <img src="/images/Comics/Yummy%20Bites/Pok%20Pok/comics_pokpok_wonderful_world_04.jpg" style="width:80%">
 <br>
-Art is subjective...
+Art can change the way you see the world.
