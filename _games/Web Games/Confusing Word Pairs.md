@@ -12,8 +12,7 @@ Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
 ![](/images/Games/cover_cwp.jpg)
 
 # Ep 1 - Pigeon Break at the Hawker Centre
-
-<a href="https://go.gov.sg/yummybuddies-pb-sls"><img alt="" src="/images/Website/cta_sls.jpg"></a>
+![](/images/Games/games_pigeon_break.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,8 +25,8 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 <table class="tg">
 <thead>
 <tr>
-<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-edm"><img alt="_blank" src="/images/Website/btn_mailing_list.png"></a></td>
-<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-contact-us"><img alt="_blank" src="/images/Website/btn_collab.png"></a></td>
+<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-edm"><img alt="_blank" src="/images/Games/btn_games_browser.png"></a></td>
+<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-pb-sls"><img alt="_blank" src="/images/Games/btn_games_sls.png"></a></td>
 </tr>
 </thead>
 </table>
