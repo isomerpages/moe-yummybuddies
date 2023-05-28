@@ -21,8 +21,8 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 <table class="tg">
 <thead>
 <tr>
-<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/btn_mailing_list.png"></a></td>
-<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-contact-us"><img alt="" src="/images/Website/btn_collab.png"></a></td>
+<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-edm"><img alt="_blank" src="/images/Website/btn_mailing_list.png"></a></td>
+<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-contact-us"><img alt="_blank" src="/images/Website/btn_collab.png"></a></td>
 </tr>
 </thead>
 </table>
