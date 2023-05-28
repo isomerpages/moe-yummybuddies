@@ -2,7 +2,7 @@ collections:
   games:
     output: true
     order:
-      - Web Games/Pigeon Break at the Hawker Centre.md
+      - Web Games/Confusing Word Pairs.md
       - Web Games/.keep
       - Spot the difference/.keep
       - Spot the difference/The Yummy Buddies.md

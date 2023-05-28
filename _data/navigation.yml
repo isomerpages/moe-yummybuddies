@@ -8,17 +8,17 @@ links:
       - title: The Characters
         url: /about/the-characters/
   - title: Comics
-    url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
+    url: /yummy-bites/bouncy/family/
     sublinks:
       - title: Yummy Bites
         url: /yummy-bites/bouncy/family
       - title: Lingo Boost
         url: /lingo-boost/confusing-word-pairs/its-vs-its/
   - title: Games
-    url: /games/web-games/pigeon-break/
+    url: /games/web-games/confusing-word-pairs
     sublinks:
       - title: Web Games
-        url: /games/web-games/pigeon-break/
+        url: /games/web-games/confusing-word-pairs
       - title: Spot the difference
         url: /games/spot-the-difference/yummy-buddies/
   - title: For educators
@@ -26,19 +26,15 @@ links:
     sublinks:
       - title: Why use the Yummy Buddies?
         url: /for-educators/why-use-the-yummy-buddies/
-      - title: The Team
-        url: /for-educators/team/
-      - title: Stay connected
-        url: /for-educators/stay-connected/
-      - title: Collaborate with us
-        url: /for-educators/collaborate
+      - title: Connect with us
+        url: /for-educators/connect-with-us/
       - title: FAQ
         url: /for-educators/faq/
   - title: Your Ideas
     url: /your-ideas/featured-comics/magnet/
     sublinks:
       - title: Featured comics
-        url: /your-ideas/featured-comics/magnet/
+        url: /your-ideas/featured-comics/magnets/
       - title: How to submit?
         url: /your-ideas/how-to-submit/
   - title: Animations

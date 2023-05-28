@@ -1,5 +1,5 @@
 ---
-title: Everyday vs every day
+title: Everyday vs Every Day
 permalink: /lingo-boost/confusing-word-pairs/everyday-vs-every-day/
 description: ""
 third_nav_title: Confusing Word Pairs

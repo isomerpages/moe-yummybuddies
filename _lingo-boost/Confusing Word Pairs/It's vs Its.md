@@ -1,5 +1,5 @@
 ---
-title: It's vs its
+title: It's vs Its
 permalink: /lingo-boost/confusing-word-pairs/its-vs-its/
 description: ""
 third_nav_title: Confusing Word Pairs

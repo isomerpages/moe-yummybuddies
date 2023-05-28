@@ -12,4 +12,4 @@ third_nav_title: Flip
 <br>
 <img src="/images/Comics/Yummy%20Bites/Flip/comics_flip_rubic_04.jpg" style="width:80%">
 <br>
-It can be frustrating when you don’t get what you want. Sometimes, it’s good to take a step back and laugh at the situation.
+It can be frustrating when you don’t get what you want. Sometimes, it can help to take a step back. You might gain a different perspective when you revisit the problem later. And don’t forget - you can always seek help from someone you trust.

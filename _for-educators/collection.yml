@@ -3,8 +3,5 @@ collections:
     output: true
     order:
       - Why use the Yummy Buddies?.md
-      - The Team.md
-      - Stay connected.md
-      - Comics.md
-      - Collaborate with us.md
+      - Connect with us.md
       - FAQs.md
