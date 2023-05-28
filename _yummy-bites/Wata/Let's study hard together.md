@@ -14,4 +14,4 @@ third_nav_title: Wata
 <br>
 <img src="/images/Comics/Yummy%20Bites/Wata/comics_wata_study_05.jpg" style="width:80%">
 <br>
-Knowing you've made others happy is the best kind of happy there is.
+It can be hard to stay focused when you study alone. Form study groups with your friends and encourage each other to work hard!
