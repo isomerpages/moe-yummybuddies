@@ -14,4 +14,4 @@ third_nav_title: Bouncy
 <br>
 <img src="/images/Comics/Yummy%20Bites/Bouncy/comics_bouncy_frog_04.jpg" style="width:80%">
 <br>
-Do you know why frogs look so different when they are young?
+Did the tadpole magically disappear? Or is there a more logical explanation? What do you think?
