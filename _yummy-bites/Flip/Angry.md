@@ -10,6 +10,6 @@ third_nav_title: Flip
 <br>
 <img src="/images/Comics/Yummy%20Bites/Flip/comics_flip_angry_03.jpg" style="width:80%">
 <br>
-What do you do when you are angry? You can use Trace your hand breathing. Hold up one hand taking long deep inhales when tracing upward and slowly exhaling when moving down the finger.
+What do you do when you are angry? 
 
-You can also do what you like/enjoy to calm down before looking at the problem again.
+Whenever you need to calm down, you could try the Hand Breathing technique. Hold up one hand and slowly trace the outline of your fingers. Take long deep inhales when tracing upward and exhale slowly when tracing downwards. You could also do something you enjoy to feel more relaxed before looking at the problem again.
