@@ -12,4 +12,4 @@ third_nav_title: Coco
 <br>
 <img src="/images/Comics/Yummy%20Bites/Coco/comics_coco_finger_04.jpg" style="width:80%">
 <br>
-Not everything is tangible, there are many things we feel inside, see or remember. We cannot touch them, but we hold dear to them. Hold dear to your friends and family.
+Some of the most important things in life, like love, honesty and friendship, cannot be seen or held in your hands. Can you think of any other examples?
