@@ -5,7 +5,6 @@ description: ""
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xEfc-y6HxnY" height="450" width="800"></iframe>
 
-
 ### Yummy Buddies 3D animated series
 
 Join the Yummy Buddies in hard-to-access locations as 
