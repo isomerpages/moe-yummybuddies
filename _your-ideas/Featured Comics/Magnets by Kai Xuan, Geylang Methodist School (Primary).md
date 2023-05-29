@@ -18,4 +18,4 @@ Name: Kai Xuan (P3)<br>
 School: Geylang Methodist School (Primary)
 <img src="/images/Comics/Students'%20Submission/student_magnet.jpg" style="width:100%">
 <br>
-<a href="https://go.gov.sg/yummybuddies-submit"><img alt="_blank" src="/images/Website/cta_submit.jpg"></a>
+<a target="_blank" href="https://go.gov.sg/yummybuddies-submit"><img alt="_blank" src="/images/Website/cta_submit.jpg"></a>

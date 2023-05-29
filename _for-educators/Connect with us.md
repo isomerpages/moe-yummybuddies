@@ -16,13 +16,13 @@ Whether itâ€™s a suggestion or an idea for the Yummy Buddies, let us know whatâ€
 overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
 font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:white;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
 <tr>
-<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-edm"><img alt="_blank" src="/images/Website/btn_mailing_list.png"></a></td>
-<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-contact-us"><img alt="_blank" src="/images/Website/btn_collab.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/btn_mailing_list.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us"><img alt="" src="/images/Website/btn_collab.png"></a></td>
 </tr>
 </thead>
 </table>

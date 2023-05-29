@@ -3,10 +3,7 @@ title: 3D Series
 permalink: /animations/3d-series/
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/t23ufpinDB0" height="315" width="560"></iframe>
-
-[3D Demo.mp4 - Google Drive](https://drive.google.com/file/d/1ySp7RigFMBDdYDm5pG7lqvpwbgRQ0svT/view?resourcekey)
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xEfc-y6HxnY" height="315" width="560"></iframe>
 
 ### Yummy Buddies 3D animated series
 

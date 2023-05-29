@@ -12,4 +12,6 @@ third_nav_title: Wata
 <br>
 <img src="/images/Comics/Yummy%20Bites/Wata/comics_wata_cake_04.jpg" style="width:80%">
 <br>
+<img src="/images/Comics/Yummy%20Bites/Wata/comics_wata_cake_05.jpg" style="width:80%">
+<br>
 Knowing you've made others happy is the best kind of happy there is.
