@@ -21,7 +21,7 @@ sections:
       title: Game on!
       description: Go on a quest with the Yummy Buddies in our web game series on SLS!
       button: Start now
-      url: /games
+      url: /games/web-games/confusing-word-pairs/
       alt: home_game
       image: /images/Website/home_game.png
   - infobar:
