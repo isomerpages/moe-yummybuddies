@@ -16,7 +16,7 @@ Whether itâ€™s a suggestion or an idea for the Yummy Buddies, let us know whatâ€
 overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
 font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:white;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
