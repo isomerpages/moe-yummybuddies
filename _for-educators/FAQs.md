@@ -17,7 +17,7 @@ description: Frequently asked questions on the Yummy Buddies and collaboration.
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Can Yummy Buddies resources be customised?
 </label><div>  
-<p>Yes! We are constantly on the lookout for collaborators to partner with to develop new Yummy Buddies content. Get in touch with us to start on this exciting journey!
+<p>Yes! We are constantly on the lookout for collaborators to partner with to develop new Yummy Buddies content. [target="_blank"](/contact-us) with us to start on this exciting journey!
 </p>  
 </div></li>  
   
