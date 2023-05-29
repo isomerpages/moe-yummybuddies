@@ -10,5 +10,5 @@ All you need to do is:
 * take a photo
 * click the below button and submit photo to us
 
-<a href="https://go.gov.sg/yummybuddies-submit"><img alt="_blank" src="/images/Website/cta_submit.jpg"></a>
+<a target="_blank" href="https://go.gov.sg/yummybuddies-submit"><img alt="_blank" src="/images/Website/cta_submit.jpg"></a>
 <br>
