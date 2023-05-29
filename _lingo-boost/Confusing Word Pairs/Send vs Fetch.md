@@ -33,8 +33,8 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 <table class="tg">
 <thead>
 <tr>
-<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-pb"><img alt="_blank" src="/images/Games/btn_games_browser.png"></a></td>
-<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-pb-sls"><img alt="_blank" src="/images/Games/btn_games_sls.png"></a></td>
+<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-pb"><img target="_blank" alt="" src="/images/Games/btn_games_browser.png"></a></td>
+<td class="tg-0pky"><a href="https://go.gov.sg/yummybuddies-pb-sls"><img target="_blank" alt="" src="/images/Games/btn_games_sls.png"></a></td>
 </tr>
 </thead>
 </table>
