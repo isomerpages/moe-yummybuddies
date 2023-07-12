@@ -22,7 +22,7 @@ description: Frequently asked questions on the Yummy Buddies and collaboration.
 </div></li>  
   
 <li><input type="checkbox" id="accordion3">  
-<label for="accordion3">How long does it takes to develop content for Yummy Buddies</label><div>  
+<label for="accordion3">How long does it take to develop content for the Yummy Buddies?</label><div>  
 <p>There are multiple variables that can affect the development time, from manpower, approval process, complexity, clarity of requirements and dependencies on teams.</p>  
 </div></li>  
 	
