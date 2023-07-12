@@ -6,7 +6,7 @@ description: Do you have ideas for new characters in Yummy Buddies? Or a comics
 ---
 All you need to do is:
 * have a great or funny idea
-* draw out your ideas in square comic panels
+* sketch out your ideas in square comics panels
 * take a photo
 * click the below button and submit photo to us
 
