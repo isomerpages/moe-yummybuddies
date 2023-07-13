@@ -15,6 +15,7 @@ sections:
       button: VIEW MORE
       url: /animations/3d-series/
       alt: Image alt text
+      image: /images/Website/home_3dtrailer.png
   - infopic:
       title: Yummy Comics
       description: Read about the Yummy Buddies’ everyday adventures and their
