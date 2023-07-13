@@ -10,6 +10,12 @@ sections:
   - hero:
       background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
   - infopic:
+      title: Learning journey with the Yummy Buddies
+      description: Watch the trailer now!
+      button: VIEW MORE
+      url: /animations/3d-series/
+      alt: Image alt text
+  - infopic:
       title: Yummy Comics
       description: Read about the Yummy Buddies’ everyday adventures and their
         never-ending quest for knowledge!
