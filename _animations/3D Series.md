@@ -11,3 +11,21 @@ Join the Yummy Buddies in hard-to-access locations as
 they try to make sense of complex concepts.
 
 On their adventures, they encounter challenges that require their quick wits, critical thinking, problem-solving, creativity, and communication skills to overcome.
+
+### Connect with us now!
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:white;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+<tr>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/btn_mailing_list.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us"><img alt="" src="/images/Website/btn_collab.png"></a></td>
+</tr>
+</thead>
+</table>
