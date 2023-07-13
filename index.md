@@ -10,8 +10,8 @@ sections:
   - hero:
       background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
   - infopic:
-      title: Learning journey with the Yummy Buddies
-      description: Watch the 3D trailer now!
+      title: Yummy Adventures
+      description: Explore and experience the world with Bouncy and his friends!
       button: VIEW MORE
       url: /animations/3d-series/
       alt: Image alt text
