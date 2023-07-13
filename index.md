@@ -11,7 +11,7 @@ sections:
       background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
   - infopic:
       title: Yummy Adventures
-      description: Explore and experience the world with Bouncy and his friends!
+      description: Explore and experience the world with Bouncy and friends!
       button: VIEW MORE
       url: /animations/3d-series/
       alt: Image alt text
