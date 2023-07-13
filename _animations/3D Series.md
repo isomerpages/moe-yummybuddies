@@ -13,6 +13,7 @@ they try to make sense of complex concepts.
 On their adventures, they encounter challenges that require their quick wits, critical thinking, problem-solving, creativity, and communication skills to overcome.
 
 ### Connect with us now!
+Be notified when there's new contents/lessons or reach out to us if you have ideas for collaboration.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
