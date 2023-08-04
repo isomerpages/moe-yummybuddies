@@ -1,8 +1,7 @@
 ---
 title: Confusing Word Pairs
-permalink: /games/web-games/confusing-word-pairs/
+permalink: /sls/cwp/
 description: ""
-third_nav_title: Web Games
 ---
 Is your mother **sending** or **fetching** you to school? Does that screw need to be **loser** or **looser**?  
   
