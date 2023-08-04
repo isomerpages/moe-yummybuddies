@@ -27,10 +27,7 @@ links:
       - title: 3D Series
         url: /animations/3d-series/
   - title: SLS
-    url: /permalink
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
+    url: /sls/cwp-1/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
