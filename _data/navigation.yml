@@ -42,3 +42,8 @@ links:
     sublinks:
       - title: 3D Series
         url: /animations/3d-series/
+  - title: SLS
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
