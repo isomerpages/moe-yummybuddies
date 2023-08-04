@@ -1,4 +1,5 @@
 collections:
   sls:
     output: true
-    order: []
+    order:
+      - Confusing Word Pairs.md
