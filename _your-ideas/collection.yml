@@ -2,8 +2,8 @@ collections:
   your-ideas:
     output: true
     order:
-      - Guide for submission.md
       - Featured Comics/.keep
       - Featured Comics/Magnets by Kai Xuan, Geylang Methodist School
         (Primary).md
       - How to submit?.md
+      - Guide for submission.md
