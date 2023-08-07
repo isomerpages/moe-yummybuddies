@@ -29,6 +29,8 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 </tr>
 </thead>
 </table>
+
+<a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img width="50%" alt="" src="/images/Games/btn_games_sls.png"></a>
 #### Collaborate with us
 
 We are constantly working on new educational content for the Yummy Buddies.  
