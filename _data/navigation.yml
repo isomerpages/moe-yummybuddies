@@ -21,13 +21,15 @@ links:
         url: /games/web-games/confusing-word-pairs
       - title: Spot the difference
         url: /games/spot-the-difference/yummy-buddies/
-  - title: SLS Packages
-    url: /sls/cwp/
   - title: Animations
     url: /animations/3d-series/
     sublinks:
+      - title: Animated Stickers
+        url: /animations/animated-stickers/
       - title: 3D Series
         url: /animations/3d-series/
+  - title: SLS Packages
+    url: /sls/cwp/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:

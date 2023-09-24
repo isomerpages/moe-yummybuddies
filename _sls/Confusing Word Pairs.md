@@ -13,22 +13,7 @@ Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
 ### Ep 1 - Pigeon Break at the Hawker Centre
 ![](/images/Games/games_pigeon_break.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:white;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
-overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:white;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
-font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:white;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-<tr>
-<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-pb"><img alt="" src="/images/Games/btn_games_browser.png"></a></td>
-<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img alt="" src="/images/Games/btn_games_sls.png"></a></td>
-</tr>
-</thead>
-</table>
+<a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
 #### Collaborate with us
 
 We are constantly working on new educational content for the Yummy Buddies.  

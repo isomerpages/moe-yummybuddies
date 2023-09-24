@@ -17,8 +17,8 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 <table class="tg">
 <thead>
 <tr>
-<td class="tg-0pky"><a target="_blank" href=""><img alt="" src="/images/Website/btn_apple_appstore_download.png"></a></td>
-<td class="tg-0pky"><a target="_blank" href=""><img alt="" src="/images/Website/btn_google_play_download.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-was-ios"><img alt="" src="/images/Website/btn_apple_appstore_download.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-was-gp"><img alt="" src="/images/Website/btn_google_play_download.png"></a></td>
 </tr>
 </thead>
 </table>
