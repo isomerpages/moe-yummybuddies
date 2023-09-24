@@ -24,6 +24,8 @@ links:
   - title: Animations
     url: /animations/3d-series/
     sublinks:
+      - title: Animated Stickers
+        url: /animations/animated-stickers/
       - title: 3D Series
         url: /animations/3d-series/
   - title: SLS Packages
