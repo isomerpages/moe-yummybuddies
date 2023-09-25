@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Website/cta_whatsapp_sticker.gif)
 
-**Coming Soon!**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:white;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
