@@ -22,6 +22,3 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 </tr>
 </thead>
 </table>
-
-**Join our mailing list to get notify when we launch it!**
-<a target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/btn_mailing_list.png"></a>
