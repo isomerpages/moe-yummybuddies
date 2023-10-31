@@ -2,6 +2,7 @@ collections:
   buddy-basics:
     output: true
     order:
+      - Wata.md
       - Semicircle.md
       - Round.md
       - Square.md
