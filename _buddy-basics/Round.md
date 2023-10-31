@@ -1,6 +1,6 @@
 ---
 title: Round
-permalink: /who-is-who/round/
+permalink: /buddy-basics/round/
 description: ""
 ---
 <img src="/images/Comics/Buddy%20Basics/comics_bouncy_intro_01.jpg" style="width:80%">

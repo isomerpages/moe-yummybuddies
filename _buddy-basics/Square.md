@@ -1,6 +1,6 @@
 ---
 title: Square
-permalink: /who-is-who/square/
+permalink: /buddy-basics/square/
 description: ""
 ---
 <img src="/images/Comics/Buddy%20Basics/comics_flip_guess_01.jpg" style="width:80%">
