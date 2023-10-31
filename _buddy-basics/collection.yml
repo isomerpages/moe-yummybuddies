@@ -2,11 +2,11 @@ collections:
   buddy-basics:
     output: true
     order:
-      - Wata.md
-      - Semicircle.md
       - Round.md
       - Square.md
       - Triangle.md
+      - Semicircle.md
+      - Wata.md
       - Stick.md
       - Woof.md
       - Green.md
