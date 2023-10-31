@@ -2,9 +2,9 @@ collections:
   buddy-basics:
     output: true
     order:
+      - Round.md
+      - Square.md
       - Triangle.md
       - Green.md
       - Woof.md
       - Stick.md
-      - Round.md
-      - Square.md
