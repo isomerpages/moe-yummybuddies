@@ -2,6 +2,7 @@ collections:
   buddy-basics:
     output: true
     order:
+      - Semi circle.md
       - Round.md
       - Square.md
       - Triangle.md
