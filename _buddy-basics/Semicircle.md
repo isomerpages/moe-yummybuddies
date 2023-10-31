@@ -15,5 +15,3 @@ description: ""
 <br>
 
 Likes to fold her hair, and make herself pretty. Innocent and simple. She is timid by nature but can be vocal at times, especially when stating her opinions on art and beauty. She is a good artist.
-
-Join us to explore the world from the Yummy Buddies' perspective!
