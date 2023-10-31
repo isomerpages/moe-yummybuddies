@@ -16,5 +16,3 @@ description: ""
 <img src="/images/Comics/Buddy%20Basics/comics_bouncy_intro_06.jpg" style="width:80%">
 <br>
 Bouncy likes to explore new things, rolling and bouncing into situations head-first with his group of trusty friends, the Yummy Buddies!
-
-Join us to explore the world from the Yummy Buddies' perspective!
