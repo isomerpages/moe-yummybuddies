@@ -9,6 +9,16 @@ notification: ""
 sections:
   - hero:
       background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
+      key_highlights:
+        - title: Comics
+          description: Adventure time!
+          url: https://staging.d3llyogl2yj2ln.amplifyapp.com/buddy-basics/round/
+        - title: WhatsApp Stickers
+          description: Send some happiness
+          url: https://staging.d3llyogl2yj2ln.amplifyapp.com/animations/animated-stickers/
+        - title: Young Scientist Badge
+          description: Activities for the holidays
+          url: ""
   - infopic:
       title: Yummy Adventures
       description: Explore and experience the world with Bouncy and friends!
