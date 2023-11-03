@@ -2,6 +2,7 @@
 title: Metal
 permalink: /buddy-basics/metal/
 description: ""
+variant: markdown
 ---
 <img src="/images/Comics/Buddy%20Basics/comics_wata_guess_01.jpg" style="width:80%">
 <br>
@@ -15,4 +16,5 @@ description: ""
 <br>
 <img src="/images/Comics/Buddy%20Basics/comics_wata_guess_06.jpg" style="width:80%">
 <br>
-He is a green loving and peaceful character. Loves to spread his love(water) to plants. Has a habit to help others beyond what was required, a little too much sometimes.
+
+Wata the water bottle is considerate and caring, often to a fault – his friends sometimes find his help excessive and mildly annoying. On the rare occasion he loses his cool, Wata literally gets boiling mad - the water in him heats up, and steam spurts out from his spout, giving new meaning to the phrase ‘blowing his top’.
