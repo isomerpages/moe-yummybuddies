@@ -2,6 +2,7 @@
 title: Stick
 permalink: /buddy-basics/stick/
 description: ""
+variant: markdown
 ---
 <img src="/images/Comics/Buddy%20Basics/comics_coco_guess_01.jpg" style="width:80%">
 <br>
@@ -13,4 +14,5 @@ description: ""
 <br>
 <img src="/images/Comics/Buddy%20Basics/comics_coco_guess_05.jpg" style="width:80%">
 <br>
-He likes to read books in his little corner and is the class's walking encyclopedia. Some friends say he is way smarter than the teacher. He has a tendency sneak up behind others to provide solutions when they are stuck.
+
+This brainy chocolate-coated stick biscuit  absorbs information like a sponge and is always hungry for knowledge. The other Yummy Buddies instinctively turn to him when they have questions and Coco delights in helping them solve their little crises with little nuggets of obscure information.
