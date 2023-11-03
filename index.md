@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Comics
           description: Adventure time!
-          url: https://staging.d3llyogl2yj2ln.amplifyapp.com/buddy-basics/round/
+          url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
         - title: WhatsApp Stickers
           description: Send some happiness
           url: https://yummybuddies.moe.edu.sg/animations/animated-stickers/
