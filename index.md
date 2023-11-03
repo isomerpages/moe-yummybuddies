@@ -15,7 +15,7 @@ sections:
           url: https://staging.d3llyogl2yj2ln.amplifyapp.com/buddy-basics/round/
         - title: WhatsApp Stickers
           description: Send some happiness
-          url: https://staging.d3llyogl2yj2ln.amplifyapp.com/animations/animated-stickers/
+          url: https://yummybuddies.moe.edu.sg/animations/animated-stickers/
         - title: Join us on Instagram
           description: Latest comics & events
           url: ""
