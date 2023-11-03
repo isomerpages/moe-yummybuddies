@@ -16,8 +16,8 @@ sections:
         - title: WhatsApp Stickers
           description: Send some happiness
           url: https://staging.d3llyogl2yj2ln.amplifyapp.com/animations/animated-stickers/
-        - title: Young Scientist Badge
-          description: Activities for the holidays
+        - title: Join us on Instagram
+          description: Latest comics & events
           url: ""
   - infopic:
       title: Follow us on Instagram!
