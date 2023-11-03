@@ -16,7 +16,7 @@ sections:
         - title: WhatsApp Stickers
           description: Send some happiness
           url: https://yummybuddies.moe.edu.sg/animations/animated-stickers/
-        - title: Join us on Instagram
+        - title: Instagram
           description: Latest comics & events
           url: ""
   - infopic:
