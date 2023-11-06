@@ -10,15 +10,15 @@ sections:
   - hero:
       background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
       key_highlights:
-        - title: Comics
-          description: Adventure time!
-          url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
-        - title: WhatsApp Stickers
-          description: Send some happiness
-          url: https://yummybuddies.moe.edu.sg/animations/animated-stickers/
         - title: Instagram
           description: Latest comics & events
           url: ""
+        - title: WhatsApp Stickers
+          description: Send some happiness
+          url: https://yummybuddies.moe.edu.sg/animations/animated-stickers/
+        - title: Comics
+          description: Adventure time!
+          url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
   - infopic:
       title: Follow us on Instagram!
       id: infopic
