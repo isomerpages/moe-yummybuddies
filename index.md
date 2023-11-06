@@ -25,7 +25,7 @@ sections:
       description: Get the latest comics directly on your mobile!
       button: Let's go
       url: https://go.gov.sg/yummybuddies-ig
-      image: /images/Website/home_instagram.jpg
+      image: /images/Website/home_instagram2.png
       alt: Image alt text
   - infopic:
       title: Yummy Comics
