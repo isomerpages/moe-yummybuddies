@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Instagram
           description: Latest comics & events
-          url: ""
+          url: https://go.gov.sg/yummybuddies-ig
         - title: WhatsApp Stickers
           description: Send some happiness
           url: https://yummybuddies.moe.edu.sg/animations/animated-stickers/
