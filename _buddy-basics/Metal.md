@@ -2,6 +2,7 @@
 title: Metal
 permalink: /buddy-basics/metal/
 description: ""
+variant: markdown
 ---
 <img src="/images/Comics/Buddy%20Basics/comics_wata_guess_01.jpg" style="width:80%">
 <br>
@@ -15,4 +16,5 @@ description: ""
 <br>
 <img src="/images/Comics/Buddy%20Basics/comics_wata_guess_06.jpg" style="width:80%">
 <br>
-He is a green loving and peaceful character. Loves to spread his love(water) to plants. Has a habit to help others beyond what was required, a little too much sometimes.
+
+Wata is a water bottle with a great capacity for peace and harmony. He likes to remind the Yummy Buddies that a little kindness can go a long way.

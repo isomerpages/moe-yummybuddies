@@ -2,6 +2,7 @@
 title: Woof
 permalink: /buddy-basics/woof/
 description: ""
+variant: markdown
 ---
 <img src="/images/Comics/Buddy%20Basics/comics_poodle_guess_01.jpg" style="width:80%">
 <br>
@@ -15,4 +16,5 @@ description: ""
 <br>
 <img src="/images/Comics/Buddy%20Basics/comics_poodle_guess_06.jpg" style="width:80%">
 <br>
-Poodle is an AI robot with a puppy personality. Created by the smartest minds, it is designed to find the best answers through machine learning. It needs to connect to the Wi-Fi and is constantly tilting left and right, shaking its ears to get the best signal.
+
+Part robot, part dog, all cuteness! Poodle is an AI dogbot who’s ready to help the Yummy Buddies make the best use of technology.

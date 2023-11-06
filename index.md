@@ -9,13 +9,24 @@ notification: ""
 sections:
   - hero:
       background: /images/Website/home_yummy_buddies_slider_frog_1920_720.jpg
+      key_highlights:
+        - title: Instagram
+          description: Latest comics & events
+          url: https://go.gov.sg/yummybuddies-ig
+        - title: WhatsApp Stickers
+          description: Send some happiness
+          url: https://yummybuddies.moe.edu.sg/animations/animated-stickers/
+        - title: Comics
+          description: Adventure time!
+          url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
   - infopic:
-      title: Yummy Adventures
-      description: Explore and experience the world with Bouncy and friends!
-      button: VIEW MORE
-      url: /animations/3d-series/
+      title: Follow us on Instagram!
+      id: infopic
+      description: Get the latest comics directly on your mobile!
+      button: Let's go
+      url: https://go.gov.sg/yummybuddies-ig
+      image: /images/Website/home_instagram.png
       alt: Image alt text
-      image: /images/Website/home_3dtrailer.png
   - infopic:
       title: Yummy Comics
       description: Read about the Yummy Buddies’ everyday adventures and their
@@ -31,6 +42,13 @@ sections:
       url: /games/web-games/confusing-word-pairs/
       alt: home_game
       image: /images/Website/home_game.png
+  - infopic:
+      title: Yummy Adventures
+      description: Explore and experience the world with Bouncy and friends!
+      button: VIEW MORE
+      url: /animations/3d-series/
+      alt: Image alt text
+      image: /images/Website/home_3dtrailer.png
   - infobar:
       button: Get in touch!
       url: /contact-us

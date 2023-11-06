@@ -2,6 +2,7 @@
 title: Semicircle
 permalink: /buddy-basics/semicircle/
 description: ""
+variant: markdown
 ---
 <img src="/images/Comics/Buddy%20Basics/comics_pokpok_guess_01.jpg" style="width:80%">
 <br>
@@ -14,4 +15,4 @@ description: ""
 <img src="/images/Comics/Buddy%20Basics/comics_pokpok_guess_05.jpg" style="width:80%">
 <br>
 
-Likes to fold her hair, and make herself pretty. Innocent and simple. She is timid by nature but can be vocal at times, especially when stating her opinions on art and beauty. She is a good artist.
+A curry puff with an artistic streak, Pok Pok loves all things bright and beautiful. She is often the gentle voice of reason amongst the Yummy Buddies.

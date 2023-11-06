@@ -2,6 +2,7 @@
 title: Green
 permalink: /buddy-basics/green/
 description: ""
+variant: markdown
 ---
 <img src="/images/Comics/Buddy%20Basics/comics_msg_guess_01.jpg" style="width:80%">
 <br>
@@ -13,4 +14,5 @@ description: ""
 <br>
 <img src="/images/Comics/Buddy%20Basics/comics_msg_guess_05.jpg" style="width:80%">
 <br>
-She is a very knowledgeable teacher, but better with Poodle- her AI smart bot. With a nice melodic tone “Hey, Poodle…”, she will know everything. Well, almost everything.
+
+Kind, nurturing and passionate about education, Ms G always goes all out for her students. It’s no wonder this juicy green apple is the Yummy Buddies’ favourite teacher!
