@@ -17,4 +17,4 @@ variant: markdown
 <img src="/images/Comics/Buddy%20Basics/comics_wata_guess_06.jpg" style="width:80%">
 <br>
 
-Wata the water bottle is considerate and caring, often to a fault – his friends sometimes find his help excessive and mildly annoying. On the rare occasion he loses his cool, Wata literally gets boiling mad - the water in him heats up, and steam spurts out from his spout, giving new meaning to the phrase ‘blowing his top’.
+Wata is a water bottle with a great capacity for peace and harmony. He likes to remind the Yummy Buddies that a little kindness can go a long way.
