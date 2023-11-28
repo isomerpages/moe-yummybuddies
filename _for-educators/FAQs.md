@@ -2,6 +2,7 @@
 title: FAQs
 permalink: /for-educators/faq/
 description: Frequently asked questions on the Yummy Buddies and collaboration.
+variant: markdown
 ---
 ![faq](/images/Website/educator_faq.jpg)
 
@@ -23,7 +24,7 @@ description: Frequently asked questions on the Yummy Buddies and collaboration.
   
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">How long does it take to develop content for the Yummy Buddies?</label><div>  
-<p>There are multiple variables that can affect the development time, from manpower, approval process, complexity, clarity of requirements and dependencies on teams.</p>  
+<p>There are multiple variables that can affect the development time, such as the complexity of the project, manpower, approval process, clarity of requirements and dependencies on teams.</p>  
 </div></li>  
 	
 </ul>
