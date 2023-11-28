@@ -3,6 +3,7 @@ title: Finger
 permalink: /yummy-bites/coco/finger/
 description: ""
 third_nav_title: Coco
+variant: markdown
 ---
 <img src="/images/Comics/Yummy%20Bites/Coco/comics_coco_finger_01.jpg" style="width:80%">
 <br>
