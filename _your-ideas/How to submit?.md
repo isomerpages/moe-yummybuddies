@@ -11,8 +11,8 @@ variant: markdown
 *   Keep your story short and simple.
 
 ### What to do
-* Sketch out your idea in square comics panels;
-* Take a photo of your sketch;
+* Sketch out your idea in square comics panels.
+* Take a photo of your sketch.
 * Click the button below to submit your idea!
 
 <a target="_blank" href="https://go.gov.sg/yummybuddies-submit"><img alt="_blank" src="/images/Website/cta_submit.jpg"></a>
