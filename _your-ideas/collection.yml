@@ -2,6 +2,7 @@ collections:
   your-ideas:
     output: true
     order:
+      - Comics samples.md
       - Character references.md
       - Submission Details.md
       - Story planning matrix.md
