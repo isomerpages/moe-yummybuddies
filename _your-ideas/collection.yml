@@ -2,12 +2,12 @@ collections:
   your-ideas:
     output: true
     order:
-      - Comics samples.md
-      - Character references.md
-      - Submission Details.md
-      - Story planning matrix.md
-      - Get inspired.md
       - Featured Comics/.keep
       - Featured Comics/Magnets by Kai Xuan, Geylang Methodist School
         (Primary).md
+      - Get inspired.md
+      - Story planning matrix.md
+      - Character references.md
+      - Comics samples.md
+      - Submission Details.md
       - How to submit?.md
