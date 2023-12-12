@@ -41,11 +41,9 @@ links:
         url: /for-educators/connect-with-us/
       - title: FAQ
         url: /for-educators/faq/
-  - title: Your Ideas
-    url: /your-ideas/featured-comics/magnets/
+  - title: SDMA 2024
+    url: /your-ideas/get-inspired/
     sublinks:
-      - title: Featured comics
-        url: /your-ideas/featured-comics/magnets/
       - title: Get inspired
         url: /your-ideas/get-inspired/
       - title: Character References
@@ -56,5 +54,3 @@ links:
         url: /your-ideas/extra-help
       - title: Submission Details
         url: /your-ideas/submission-details/
-      - title: How to submit?
-        url: /your-ideas/how-to-submit/
