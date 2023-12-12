@@ -32,6 +32,11 @@ links:
         url: /animations/3d-series/
   - title: SLS Packages
     url: /sls/cwp/
+    sublinks:
+      - title: Confusing Words Pair
+        url: /sls/cwp/
+      - title: NDP 2023
+        url: /sls/ndp2023/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
