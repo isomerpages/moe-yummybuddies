@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Get inspired.md
-      - Character references.md
       - Comics samples.md
+      - Character references.md
       - Extra help.md
       - Submission guidelines.md
