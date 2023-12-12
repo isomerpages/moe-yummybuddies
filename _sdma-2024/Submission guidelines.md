@@ -1,0 +1,7 @@
+---
+title: Submission guidelines
+permalink: /your-ideas/submission-details/
+variant: tiptap
+description: ""
+---
+<h4>Comics Submission guidelines</h4><p><strong>Your comics submission must follow these specifications:</strong></p><ul><li><p>Comic strips shall be drawn on the template provided.</p></li><li><p>Every comic strip entry can consist of a maximum of 9 panels.</p></li><li><p>Every comic strip shall include a title and a short description (not more than 50 words).</p></li><li><p>Comic strips can be hand-drawn or digitally created.</p></li><li><p>All entries must be submitted via <a href="mailto:xxx@XXX.XXX.sg" rel="noopener noreferrer nofollow" target="_blank">xxx@XXX.XXX.sg</a>. (OR OUR <a href="http://FORM.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">FORM.GOV.SG</a>?)</p></li><li><p>Min. 3 MB and Max. 10 MB per file</p></li><li><p>All text and artwork in the final submission shall be clear and legible.</p></li><li><p>All submissions shall be in colour and NOT include watermarks, borders or signatures.</p></li></ul><p>All submissions shall be in good taste and must not contain any image that are deemed indecent, blasphemous, libellous, offensive, pornographic, politically insensitive, racially insensitive, or otherwise unlawful or depict any inappropriate activity. The Ministry of Education reserves the rights to reject any entry that is deemed to be inappropriate.</p><p><br></p>
