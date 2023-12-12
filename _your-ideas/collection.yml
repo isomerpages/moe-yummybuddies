@@ -1,5 +1,5 @@
 collections:
-  sdma-2024:
+  your-ideas:
     output: true
     order:
       - Get inspired.md
