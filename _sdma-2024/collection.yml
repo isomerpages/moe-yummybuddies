@@ -2,5 +2,6 @@ collections:
   sdma-2024:
     output: true
     order:
+      - Comics samples.md
       - Extra help.md
       - Submission guidelines.md
