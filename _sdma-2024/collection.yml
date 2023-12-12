@@ -2,4 +2,5 @@ collections:
   sdma-2024:
     output: true
     order:
+      - Extra help.md
       - Submission guidelines.md
