@@ -2,7 +2,7 @@ collections:
   sdma-2024:
     output: true
     order:
-      - Get inspired.md
+      - Writing tips.md
       - Comics samples.md
       - Character references.md
       - Extra help.md
