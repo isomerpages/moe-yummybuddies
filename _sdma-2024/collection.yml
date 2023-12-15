@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Writing tips.md
-      - Comics samples.md
+      - Creator's notes.md
       - Character references.md
       - Extra help.md
       - Submission guidelines.md
