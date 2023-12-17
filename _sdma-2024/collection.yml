@@ -2,10 +2,10 @@ collections:
   sdma-2024:
     output: true
     order:
+      - Writing tips.md
       - Resources/.keep
       - Resources/Creator's notes.md
       - Resources/Story planning matrix.md
       - Resources/Comics panel.md
-      - Writing tips.md
       - Drawing Guide.md
       - Submission guidelines.md
