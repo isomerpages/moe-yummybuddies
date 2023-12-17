@@ -2,7 +2,7 @@ collections:
   sdma-2024:
     output: true
     order:
-      - Resources/Resources.md
+      - Resources/Creator's notes.md
       - Resources/.keep
       - Writing tips.md
       - Drawing Guide.md
