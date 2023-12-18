@@ -1,0 +1,7 @@
+---
+title: Drawing guide
+permalink: /your-ideas/drawing-guide/
+variant: tiptap
+description: ""
+---
+<h4><strong>Drawing guide</strong></h4><p>Use the samples below to guide you as you draw the Yummy Buddies. Do your best, but remember that the artwork is just&nbsp; part of the whole comic strip. What’s most important is that you have a strong, well developed idea that is fun to read!</p><h4><strong>Expressions</strong></h4><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/bouncy_expression.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/merry_expression.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/flip_expression.png"></div><h4><strong>Poses</strong></h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/bouncy_pose.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/merry_pose.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/flip_pose.png"></div><h4></h4><p></p><p></p>
