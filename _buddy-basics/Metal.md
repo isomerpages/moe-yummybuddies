@@ -17,4 +17,4 @@ variant: markdown
 <img src="/images/Comics/Buddy%20Basics/comics_wata_guess_06.jpg" style="width:80%">
 <br>
 
-Wata is a water bottle with a great capacity for peace and harmony. He likes to remind the Yummy Buddies that a little kindness can go a long way.
+Wata is a water bottle with a great capacity for peace and harmony. He likes to remind the Yummy Buddies that a little kindness can go a long way

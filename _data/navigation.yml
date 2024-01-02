@@ -32,6 +32,11 @@ links:
         url: /animations/3d-series/
   - title: SLS Packages
     url: /sls/cwp/
+    sublinks:
+      - title: Confusing Words Pair
+        url: /sls/cwp/
+      - title: NDP 2023
+        url: /sls/ndp2023/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
@@ -41,10 +46,14 @@ links:
         url: /for-educators/connect-with-us/
       - title: FAQ
         url: /for-educators/faq/
-  - title: Your Ideas
-    url: /your-ideas/featured-comics/magnets/
+  - title: SDMA 2024
+    url: /your-ideas/writing-tips
     sublinks:
-      - title: Featured comics
-        url: /your-ideas/featured-comics/magnets/
-      - title: How to submit?
-        url: /your-ideas/how-to-submit/
+      - title: Writing tips
+        url: /your-ideas/writing-tips
+      - title: Resources
+        url: /your-ideas/creators-notes/
+      - title: Drawing guide
+        url: /your-ideas/drawing-guide/
+      - title: Submission guidelines
+        url: /your-ideas/submission-guidelines

@@ -15,4 +15,4 @@ variant: markdown
 <img src="/images/Comics/Buddy%20Basics/comics_merry_guess_05.jpg" style="width:80%">
 <br>
 
-Merry is a watermelon slice with a huge competitive streak. Sports and games come naturally to her, and she instinctively sizes up every situation to find a way to come out on top. This gung-ho gal likes things fast and furious, and sometimes thumbs her nose at those with a more measured approach to life.
+Merry is a watermelon slice who’s bursting with energy! She’s always finding fun things for her and the Yummy Buddies to do. There’s never a dull moment when Merry’s around!
