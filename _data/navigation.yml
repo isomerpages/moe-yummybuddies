@@ -1,0 +1,59 @@
+logo: /images/Website/yummy_buddies_logo_512.png
+links:
+  - title: About
+    url: /about/yummy-buddies/
+    sublinks:
+      - title: The Yummy Buddies
+        url: /about/yummy-buddies/
+      - title: The Characters
+        url: /about/the-characters/
+  - title: Comics
+    url: /yummy-bites/bouncy/family/
+    sublinks:
+      - title: Buddy Basics
+        url: /buddy-basics/round/
+      - title: Yummy Bites
+        url: /yummy-bites/bouncy/family
+      - title: Lingo Boost
+        url: /lingo-boost/confusing-word-pairs/its-vs-its/
+  - title: Games
+    url: /games/web-games/confusing-word-pairs
+    sublinks:
+      - title: Web Games
+        url: /games/web-games/confusing-word-pairs
+      - title: Spot the difference
+        url: /games/spot-the-difference/yummy-buddies/
+  - title: Animations
+    url: /animations/3d-series/
+    sublinks:
+      - title: Animated Stickers
+        url: /animations/animated-stickers/
+      - title: 3D Series
+        url: /animations/3d-series/
+  - title: SLS Packages
+    url: /sls/cwp/
+    sublinks:
+      - title: Confusing Words Pair
+        url: /sls/cwp/
+      - title: NDP 2023
+        url: /sls/ndp2023/
+  - title: For educators
+    url: /for-educators/why-use-the-yummy-buddies/
+    sublinks:
+      - title: Why use the Yummy Buddies?
+        url: /for-educators/why-use-the-yummy-buddies/
+      - title: Connect with us
+        url: /for-educators/connect-with-us/
+      - title: FAQ
+        url: /for-educators/faq/
+  - title: SDMA 2024
+    url: /your-ideas/writing-tips
+    sublinks:
+      - title: Writing tips
+        url: /your-ideas/writing-tips
+      - title: Resources
+        url: /your-ideas/creators-notes/
+      - title: Drawing guide
+        url: /your-ideas/drawing-guide/
+      - title: Submission guidelines
+        url: /your-ideas/submission-guidelines

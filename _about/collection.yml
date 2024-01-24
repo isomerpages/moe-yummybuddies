@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - The Yummy Buddies.md
+      - The Characters.md

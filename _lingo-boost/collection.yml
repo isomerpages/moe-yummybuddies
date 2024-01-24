@@ -1,0 +1,12 @@
+collections:
+  lingo-boost:
+    output: true
+    order:
+      - Confusing Word Pairs/.keep
+      - Confusing Word Pairs/It's vs Its.md
+      - Confusing Word Pairs/Past vs Passed.md
+      - Confusing Word Pairs/Lose vs Loose.md
+      - Confusing Word Pairs/Everyday vs Every Day.md
+      - Confusing Word Pairs/Send vs Fetch.md
+      - Confusing Word Pairs/Stationery vs Stationary.md
+      - Confusing Word Pairs/Complement vs Compliment.md

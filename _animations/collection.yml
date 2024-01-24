@@ -1,0 +1,6 @@
+collections:
+  animations:
+    output: true
+    order:
+      - Animated Stickers.md
+      - 3D Series.md

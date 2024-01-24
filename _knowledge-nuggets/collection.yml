@@ -1,0 +1,4 @@
+collections:
+  knowledge-nuggets:
+    output: true
+    order: []
