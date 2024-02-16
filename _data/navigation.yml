@@ -49,6 +49,8 @@ links:
   - title: SDMA 2024
     url: /your-ideas/writing-tips
     sublinks:
+      - title: Themes
+        url: /your-ideas/themes
       - title: Writing tips
         url: /your-ideas/writing-tips
       - title: Resources
@@ -57,5 +59,3 @@ links:
         url: /your-ideas/drawing-guide/
       - title: Submission guidelines
         url: /your-ideas/submission-guidelines
-      - title: Themes
-        url: /your-ideas/themes
