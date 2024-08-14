@@ -2,6 +2,7 @@ collections:
   your-ideas:
     output: true
     order:
+      - Resources/Creators' notes.md
       - Resources/.keep
       - Submission guidelines.md
       - Drawing guide.md
