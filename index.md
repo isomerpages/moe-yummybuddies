@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: Oh no! Our artist forgot to draw the ending! Help us complete the comics!
       button: FIND OUT MORE!
-      url: home
+      url: /draw-what-s-next/
       alt: Image alt text
   - infopic:
       title: Follow us on Instagram!
