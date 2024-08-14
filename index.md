@@ -20,6 +20,13 @@ sections:
           description: Adventure time!
           url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
   - infopic:
+      title: Draw what's next!
+      id: infopic
+      description: Oh no! Our artist forgot to draw the ending! Help us complete the comics!
+      button: FIND OUT MORE!
+      url: home
+      alt: Image alt text
+  - infopic:
       title: Follow us on Instagram!
       id: infopic
       description: Get the latest comics directly on your mobile!
