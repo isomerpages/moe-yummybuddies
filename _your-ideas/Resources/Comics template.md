@@ -12,6 +12,6 @@ can consist of a maximum of 9 panels.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Yummy_Buddies_Comics_Template.jpg">
 </div>
-<p>Download the <strong>Comics template</strong>. <a href="/files/SDMA /SDMA_YB_appendix_02.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a> or <a href="/images/SDMA%202024/Yummy_Buddies_Comics_Template.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
-<a href="/images/SDMA%202024/sdma_yb_infokit_10.jpg" rel="noopener noreferrer nofollow" target="_blank">.</a>
+<p>Download the <strong>Comics template</strong>. <a href="/files/Your ideas/yummy_buddies_comics_template.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a> or
+<a href="/images/SDMA%202024/Yummy_Buddies_Comics_Template.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a><a href="/images/SDMA%202024/sdma_yb_infokit_10.jpg" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
