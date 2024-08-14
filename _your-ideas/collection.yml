@@ -2,6 +2,7 @@ collections:
   your-ideas:
     output: true
     order:
+      - Drawing guide.md
       - Writing tips.md
       - Themes.md
       - Featured Comics/.keep
