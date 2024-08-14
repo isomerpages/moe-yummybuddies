@@ -26,6 +26,7 @@ sections:
       button: FIND OUT MORE!
       url: /draw-what-s-next/
       alt: Image alt text
+      image: /images/Website/home_special_event.png
   - infopic:
       title: Follow us on Instagram!
       id: infopic
