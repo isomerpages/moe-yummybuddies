@@ -10,10 +10,7 @@ third_nav_title: Resources
 can consist of a maximum of 9 panels.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/yummy_buddies_comics_template.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Yummy_Buddies_Comics_Template.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/yummy_buddies_comics_template_thumb.jpg">
 </div>
 <p>Download the <strong>Comics template</strong>. <a href="/files/Your ideas/yummy_buddies_comics_template.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a> or
 <a href="/images/Your%20ideas/yummy_buddies_comics_template.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG.</a>
