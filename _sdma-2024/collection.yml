@@ -2,7 +2,6 @@ collections:
   sdma-2024:
     output: true
     order:
-      - Writing tips.md
       - Resources/.keep
       - Resources/Creators' notes.md
       - Resources/Story planning template.md
