@@ -2,6 +2,7 @@ collections:
   your-ideas:
     output: true
     order:
+      - Resources/Comics template.md
       - Resources/Story planning template.md
       - Resources/Creators' notes.md
       - Resources/.keep
