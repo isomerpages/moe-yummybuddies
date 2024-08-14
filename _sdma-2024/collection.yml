@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Resources/.keep
-      - Resources/Story planning template.md
       - Resources/Comics template.md
