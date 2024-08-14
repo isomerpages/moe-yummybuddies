@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Resources/.keep
-      - Resources/Comics template.md
