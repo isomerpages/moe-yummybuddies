@@ -16,5 +16,5 @@ description: ""
 <p><strong>Step 2:</strong> Draw and complete the comics in the empty box</p>
 <p><strong>Step 3:</strong> Submit to us below.</p>
 <p></p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/6460ad0453ed3e0012da856b"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDMA 2024/CTA_submit_SDMA2024.jpg"></a>
 <p></p>
