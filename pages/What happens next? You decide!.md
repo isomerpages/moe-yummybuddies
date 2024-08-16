@@ -7,7 +7,6 @@ description: ""
 <p>The Yummy Buddies find themselves stuck in a scenario with no ending.
 Help them finish&nbsp;their&nbsp;story!</p>
 <h3>What happens next? - Episode 1</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/1_PANEL_COMICS_combine.jpg">
 </div>
