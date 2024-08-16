@@ -20,11 +20,12 @@ sections:
           description: Adventure time!
           url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
   - infopic:
-      title: Draw what's next!
+      title: What happens next?
       id: infopic
-      description: Oh no! Our artist forgot to draw the ending! Help us complete the comics!
+      description: Oh no! Our artist forgot to draw the ending of a comic strip! Help
+        us complete the story!
       button: FIND OUT MORE!
-      url: /draw-what-s-next/
+      url: /what-happens-next/
       alt: Image alt text
       image: /images/Website/home_special_event.png
   - infopic:
