@@ -10,7 +10,7 @@ Help them finish&nbsp;their&nbsp;story!</p>
 <p></p>
 <h3>What you need to do</h3>
 <p><strong>Step 1: </strong>Download the <strong>Comics template</strong>.
-<a href="/files/Your ideas/What_s_Next_You_Decide_Template_Ep_1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>or <a href="/images/Your%20ideas/What_s_Next_You_Decide_Ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG.</a>
+<a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>or <a href="/images/Your%20ideas/What-happens-next-ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
 </p>
 <p><strong>Step 2:</strong> Draw and complete the comic strip in the empty
 box.</p>
