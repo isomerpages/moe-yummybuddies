@@ -8,6 +8,9 @@ description: ""
 Help them finish&nbsp;their&nbsp;story!</p>
 <h3>What happens next? - Episode 1</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/1_PANEL_COMICS_combine.jpg">
+</div>
 <h3>What you need to do</h3>
 <p><strong>Step 1: </strong>Download the <strong>Comics template</strong>.
 <a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>or <a href="/images/Your%20ideas/What-happens-next-ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
