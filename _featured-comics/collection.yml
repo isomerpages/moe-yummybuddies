@@ -1,0 +1,4 @@
+collections:
+  featured-comics:
+    output: true
+    order: []
