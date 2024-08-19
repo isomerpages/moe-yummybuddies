@@ -1,4 +1,5 @@
 collections:
   featured-comics:
     output: true
-    order: []
+    order:
+      - Magnets by Kai Xuan, Geylang Methodist School (Primary).md
