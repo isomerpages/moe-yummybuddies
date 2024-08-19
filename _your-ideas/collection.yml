@@ -2,7 +2,6 @@ collections:
   your-ideas:
     output: true
     order:
-      - Featured Comics/.keep
       - Writing tips.md
       - Resources/.keep
       - Resources/Creators' notes.md
