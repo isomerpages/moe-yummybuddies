@@ -2,5 +2,6 @@ collections:
   sdma-2024-winners:
     output: true
     order:
+      - Primary/.keep
       - Primary.md
       - Secondary JC.md
