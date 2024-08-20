@@ -2,7 +2,6 @@ collections:
   sdma-2024-winners:
     output: true
     order:
-      - "Primary/Rosyth School: Yummy Buddies Learn About Scams.md"
       - Primary/.keep
       - "Primary/Anchor Green Primary: The Automatic Cat Feeder.md"
       - "Primary/Geylang Methodist School (Primary): Sketchy Links.md"
@@ -10,5 +9,6 @@ collections:
       - "Primary/Pei Hwa Presbyterian Primary School: Treat Others The Way You
         Want To Be Treated.md"
       - "Primary/Rosyth School: Cyberwellness.md"
+      - "Primary/Rosyth School: Yummy Buddies Learn About Scams.md"
       - Secondary JC/.keep
       - Secondary JC/Secondary JC title.md
