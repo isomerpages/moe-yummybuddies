@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Primary/.keep
-      - Primary/Comics.md
+      - "Primary/Anchor Green Primary: The Automatic Cat Feeder.md"
       - Secondary JC/.keep
       - Secondary JC/Secondary JC title.md
