@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary JC
 ---
-<h4><strong><u>You Can't Say That!</u></strong><br>School: Anderson Serangoon Junior College<br>Created by: Chloe Elizabeth Sng</h4>
+<h4><strong><u>Don't Fall For The Fake</u></strong><br>School: Anderson Serangoon Junior College<br>Created by: Kim Eunsong</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SDMA 2024/Secondary JC/Anderson_Serangoon_Junior_College_You_Can_t_Say_That_01.jpg">
