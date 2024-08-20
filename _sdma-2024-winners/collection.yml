@@ -2,8 +2,8 @@ collections:
   sdma-2024-winners:
     output: true
     order:
-      - "Primary/Geylang Methodist School (Primary): Sketchy Links.md"
       - Primary/.keep
       - "Primary/Anchor Green Primary: The Automatic Cat Feeder.md"
+      - "Primary/Geylang Methodist School (Primary): Sketchy Links.md"
       - Secondary JC/.keep
       - Secondary JC/Secondary JC title.md
