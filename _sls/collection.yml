@@ -2,5 +2,6 @@ collections:
   sls:
     output: true
     order:
+      - Hari Raya.md
       - Confusing Word Pairs.md
       - NDP 2024.md
