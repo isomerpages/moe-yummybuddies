@@ -10,7 +10,8 @@ Help them finish&nbsp;their&nbsp;story!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/1_PANEL_COMICS_combine.jpg">
 </div>
-<p>Complete the comics with any idea related to <strong>Children's Day</strong>!</p>
+<p>Complete the comics with any idea related to <strong>Children's Day</strong>!
+<br>Deadline: 13 October 2024</p>
 <h3>What you need to do</h3>
 <p><strong>Step 1: </strong>Come up with an idea related to <strong>Children's Day</strong>
 <br>It can be a funky idea, an incident that happened in school, a pleasant
@@ -20,5 +21,8 @@ surprise or anything under the sun!</p>
 </p>
 <p><strong>Step 3:</strong> Draw and complete the comic strip in the empty
 box.</p>
-<p><strong>Step 4:</strong> Submit your entry.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/6460ad0453ed3e0012da856b"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SDMA 2024/CTA_submit_SDMA2024.jpg"></a>
+<p><strong>Step 4:</strong> Submit your entry before 13 October 2024 here.</p>
+<a class="isomer-image-wrapper" href="https://form.gov.sg/6460ad0453ed3e0012da856b">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SDMA 2024/CTA_submit_SDMA2024.jpg">
+</a>
 <p></p>
