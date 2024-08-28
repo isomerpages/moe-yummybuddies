@@ -12,6 +12,8 @@ Help them finish&nbsp;their&nbsp;story!</p>
 </div>
 <p>Complete the comics with any idea related to <strong>Children's Day</strong>!
 <br>Deadline: 13 October 2024</p>
+<p><a href="https://staging-lite.d3sindiylt2ix2.amplifyapp.com/images/Your%20ideas/1_PANEL_COMICS_combine.jpg" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3sindiylt2ix2.amplifyapp.com/images/Your%20ideas/1_PANEL_COMICS_combine.jpg</a>
+</p>
 <h3>What you need to do</h3>
 <p><strong>Step 1: </strong>Come up with an idea related to <strong>Children's Day</strong>
 <br>It can be a funky idea, an incident that happened in school, a pleasant
