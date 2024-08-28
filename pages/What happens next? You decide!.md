@@ -12,14 +12,12 @@ Help them finish&nbsp;their&nbsp;story!</p>
 </div>
 <p>Complete the comics with any idea related to <strong>Children's Day</strong>!
 <br>Deadline: 13 October 2024</p>
-<p><a href="https://staging-lite.d3sindiylt2ix2.amplifyapp.com/images/Your%20ideas/1_PANEL_COMICS_combine.jpg" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d3sindiylt2ix2.amplifyapp.com/images/Your%20ideas/1_PANEL_COMICS_combine.jpg</a>
-</p>
 <h3>What you need to do</h3>
 <p><strong>Step 1: </strong>Come up with an idea related to <strong>Children's Day</strong>
 <br>It can be a funky idea, an incident that happened in school, a pleasant
 surprise or anything under the sun!</p>
 <p><strong>Step 2: </strong>Download the <strong>Comics template</strong>.
-<a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>or <a href="/images/Your%20ideas/What-happens-next-ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
+<a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>or <a href="/images/Your%20ideas/What_happens_next_ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
 </p>
 <p><strong>Step 3:</strong> Draw and complete the comic strip in the empty
 box.</p>
