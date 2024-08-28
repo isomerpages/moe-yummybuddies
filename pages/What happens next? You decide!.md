@@ -17,7 +17,7 @@ Help them finish&nbsp;their&nbsp;story!</p>
 <br>It can be a funky idea, an incident that happened in school, a pleasant
 surprise or anything under the sun!</p>
 <p><strong>Step 2: </strong>Download the <strong>Comics template</strong>.
-<a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>or <a href="/images/Your%20ideas/What_happens_next_ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
+<a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a> or <a href="/images/Your%20ideas/What_happens_next_ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
 </p>
 <p><strong>Step 3:</strong> Draw and complete the comic strip in the empty
 box.</p>
