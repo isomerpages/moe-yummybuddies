@@ -21,6 +21,10 @@ surprise or anything under the sun!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/What_happens_next_ep1_thumbnail.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/What_happens_next_ep1.jpg">
 </div>
 <p><strong>Step 3:</strong> Draw and complete the comic strip in the empty
