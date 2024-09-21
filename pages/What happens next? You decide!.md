@@ -6,14 +6,16 @@ description: ""
 ---
 <p>The Yummy Buddies find themselves stuck in a scenario with no ending.
 Help them finish&nbsp;their&nbsp;story!</p>
-<h3>What happens next? - Children's Day!</h3>
+<h3>Children's Day Special! What happens next?</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/1_PANEL_COMICS_combine.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/1_PANEL_COMICS_combine_14.jpg">
 </div>
 <p>Complete the comics with any idea related to <strong>Children's Day</strong>!
 <br>Deadline: 13 October 2024</p>
 <h3>What you need to do</h3>
-<p><strong>Step 1: </strong>Come up with an idea related to <strong>Children's Day</strong>
+<p><strong>Step 1: </strong>Complete the comic strip with any idea related
+to <strong>Children's Day!</strong>
 <br>It can be a funky idea, an incident that happened in school, a pleasant
 surprise or anything under the sun!</p>
 <p><strong>Step 2: </strong>Download the <strong>Comics template</strong>.
