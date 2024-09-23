@@ -9,7 +9,7 @@ Help them finish&nbsp;their&nbsp;story!</p>
 <h3>Children's Day Special! What happens next?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/1_PANEL_COMICS_combine_14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/What_happens_next_ep1_banner.jpg">
 </div>
 <p>Complete the comics with any idea related to <strong>Children's Day</strong>!
 <br>Deadline: 13 October 2024</p>
