@@ -2,7 +2,10 @@ collections:
   your-ideas:
     output: true
     order:
-      - Featured Comics/.keep
-      - Featured Comics/Magnets by Kai Xuan, Geylang Methodist School
-        (Primary).md
+      - Writing tips.md
+      - Resources/.keep
+      - Resources/Creators' notes.md
+      - Resources/Story planning template.md
+      - Resources/Comics template.md
+      - Drawing guide.md
       - How to submit?.md

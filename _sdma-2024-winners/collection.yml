@@ -1,0 +1,24 @@
+collections:
+  sdma-2024-winners:
+    output: true
+    order:
+      - Primary/.keep
+      - "Primary/Anchor Green Primary: The Automatic Cat Feeder.md"
+      - "Primary/Geylang Methodist School (Primary): Sketchy Links.md"
+      - "Primary/Geylang Methodist School (Primary): Stop Cyberbullying!.md"
+      - "Primary/Pei Hwa Presbyterian Primary School: Treat Others The Way You
+        Want To Be Treated.md"
+      - "Primary/Rosyth School: Cyberwellness.md"
+      - "Primary/Rosyth School: Yummy Buddies Learn About Scams.md"
+      - "Primary/Si Ling Primary School: Net Safety.md"
+      - "Primary/Wellington Primary School: Strengthen Your Password Game.md"
+      - "Secondary JC/Anderson Serangoon Junior College: Don't Fall For The
+        Fake.md"
+      - "Secondary JC/Anderson Serangoon Junior College: You Can't Say That!.md"
+      - "Secondary JC/Canberra Secondary School: Say No To Plagiarism.md"
+      - "Secondary JC/Edgefield Secondary School: What Do Likes Tell Us?.md"
+      - "Secondary JC/Junior Pioneer Junior College: Too Good To Be True.md"
+      - "Secondary JC/Tanjong Katong Girls' School: Phishing For Money.md"
+      - "Secondary JC/Yio Chu Kang Secondary School: Be Scam Savvy.md"
+      - Secondary JC/.keep
+      - "Secondary JC/Zhenghua Secondary School: Flip's Close Call.md"

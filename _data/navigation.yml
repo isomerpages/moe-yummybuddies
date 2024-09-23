@@ -16,6 +16,10 @@ links:
         url: /yummy-bites/bouncy/family
       - title: Lingo Boost
         url: /lingo-boost/confusing-word-pairs/its-vs-its/
+      - title: SDMA 2024 Winners
+        url: /sdma2024/anchor-green-primary-the-automatic-cat-feeder/
+      - title: Featured Comics
+        url: /featured/magnets
   - title: Games
     url: /games/web-games/confusing-word-pairs
     sublinks:
@@ -37,6 +41,10 @@ links:
         url: /sls/cwp/
       - title: NDP 2023
         url: /sls/ndp2023/
+      - title: Chinese New Year
+        url: /sls/celebrate-chinese-new-year/
+      - title: Hari Raya Puasa
+        url: /sls/celebrate-hari-raya/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
@@ -46,11 +54,9 @@ links:
         url: /for-educators/connect-with-us/
       - title: FAQ
         url: /for-educators/faq/
-  - title: SDMA 2024
-    url: /your-ideas/writing-tips
+  - title: Your ideas
+    url: /your-ideas/writing-tips/
     sublinks:
-      - title: Themes
-        url: /your-ideas/themes
       - title: Writing tips
         url: /your-ideas/writing-tips
       - title: Resources
