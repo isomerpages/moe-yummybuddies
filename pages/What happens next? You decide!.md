@@ -16,8 +16,8 @@ Help them finish&nbsp;their&nbsp;story!</p>
 <h3>What you need to do</h3>
 <p><strong>Step 1: </strong>Complete the comic strip with any idea related
 to <strong>Children's Day!</strong>
-<br>It can be a funky idea, an incident that happened in school, a pleasant
-surprise or anything under the sun!</p>
+<br>Whether it is something that happened in school, or a pleasant surprise,
+the sky&nbsp;is&nbsp;the&nbsp;limit!</p>
 <p><strong>Step 2: </strong>Download the <strong>Comics template</strong>.
 <a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>or <a href="/images/Your%20ideas/What_happens_next_ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
 </p>
