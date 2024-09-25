@@ -19,7 +19,7 @@ to <strong>Children's Day!</strong>
 <br>Whether it is something that happened in school, or a pleasant surprise,
 the sky&nbsp;is&nbsp;the&nbsp;limit!</p>
 <p><strong>Step 2: </strong>Download the <strong>Comics template</strong>.
-<a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>or <a href="/images/Your%20ideas/What_happens_next_ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
+<a href="/files/Your ideas/What_happens_next_ep1.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF </a>or <a href="/images/Your%20ideas/What_happens_next_ep1.jpg" rel="noopener noreferrer nofollow" target="_blank">JPG</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
