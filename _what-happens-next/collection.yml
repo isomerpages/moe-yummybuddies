@@ -2,5 +2,5 @@ collections:
   what-happens-next:
     output: true
     order:
-      - Children's Day!.md
       - What happens next? You decide!.md
+      - Children's Day!.md
