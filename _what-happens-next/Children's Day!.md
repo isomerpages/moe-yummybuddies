@@ -12,7 +12,7 @@ description: ""
 </div>
 <p></p>
 <p>Want to be notify of future events? Join our mailing list <a href="https://go.gov.sg/yummybuddies-edm" rel="noopener nofollow" target="_blank">here</a>.</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-edm">
+<a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-edm" target="_blank">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/cta_mailing_list.jpg">
 </a>
 <p></p>
