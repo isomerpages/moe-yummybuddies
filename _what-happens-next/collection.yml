@@ -1,4 +1,5 @@
 collections:
   what-happens-next:
     output: true
-    order: []
+    order:
+      - What happens next? You decide!.md
