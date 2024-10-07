@@ -19,7 +19,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/What_happens_next_ep1_banner.jpg">
 </div>
 <hr>
-<p>Want to be notify of future events? Join our mailing list <a href="https://go.gov.sg/yummybuddies-edm" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Want to be notified of future events? Join our mailing list <a href="https://go.gov.sg/yummybuddies-edm" rel="noopener nofollow" target="_blank">here</a>.</p>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-edm">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/cta_mailing_list.jpg">
 </a>
