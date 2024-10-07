@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Children's Day Special!</h3>
-<p>Here's some of our best entries!</p>
+<p>Here are some of our best entries!</p>
 <p></p>
 <p><strong>School name - Students name</strong>
 </p>
