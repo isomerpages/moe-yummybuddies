@@ -25,7 +25,7 @@ sections:
       description: Oh no! Our artist forgot to draw the ending of a comic strip! Help
         us complete the story!
       button: FIND OUT MORE!
-      url: /what-happens-next/childrens-day/
+      url: /what-happens-next/
       alt: Image alt text
       image: /images/Website/home_special_event.png
   - infopic:
