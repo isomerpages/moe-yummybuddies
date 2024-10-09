@@ -33,4 +33,3 @@ box.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SDMA 2024/CTA_submit_SDMA2024.jpg">
 </a>
 <p></p>
-<p>here</p>
