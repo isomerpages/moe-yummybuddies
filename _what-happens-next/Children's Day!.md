@@ -14,32 +14,27 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/What_happens_next_ep1_banner.jpg">
 </div>
 <hr>
-<p><strong>Geylang Methodist School Primary - Koh Kai Xuan</strong>
-</p>
+<h4>Geylang Methodist School Primary - Koh Kai Xuan</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Koh_Kai_Xuan.jpg">
 </div>
 <hr>
-<p><strong>St Andrew's Junior School - Davian Tarun David</strong>
-</p>
+<h4>St Andrew's Junior School - Davian Tarun David</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Davian_Tarun_David.jpg">
 </div>
 <hr>
-<p><strong>Telok kurau primary school - Aryan Rafael</strong>
-</p>
+<h4>Telok kurau primary school - Aryan Rafael</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Aryan_Rafael_Bin_Muhammad_Irham.jpg">
 </div>
 <hr>
-<p><strong>Telok kurau primary school - Elroy hwa</strong>
-</p>
+<h4>Telok kurau primary school - Elroy hwa</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Elroy_Hwa.jpg">
 </div>
 <hr>
-<p><strong>Telok kurau primary school - Jovil Rai</strong>
-</p>
+<h4>Telok kurau primary school - Jovil Rai</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Jovil_Rai.jpg">
 </div>
