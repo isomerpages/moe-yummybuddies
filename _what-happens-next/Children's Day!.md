@@ -14,7 +14,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/What_happens_next_ep1_banner.jpg">
 </div>
 <hr>
-<h4>Geylang Methodist School Primary - Koh Kai Xuan</h4>
+<h4>Geylang Methodist School (Primary) - Koh Kai Xuan</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Koh_Kai_Xuan.jpg">
 </div>
@@ -24,17 +24,17 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Davian_Tarun_David.jpg">
 </div>
 <hr>
-<h4>Telok kurau primary school - Aryan Rafael</h4>
+<h4>Telok Kurau Primary School - Aryan Rafael Bin Muhammad Irham</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Aryan_Rafael_Bin_Muhammad_Irham.jpg">
 </div>
 <hr>
-<h4>Telok kurau primary school - Elroy hwa</h4>
+<h4>Telok Kurau Primary School - Elroy Hwa</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Elroy_Hwa.jpg">
 </div>
 <hr>
-<h4>Telok kurau primary school - Jovil Rai</h4>
+<h4>Telok Kurau Primary School - Jovil Rai</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Your ideas/Children's Day/Jovil_Rai.jpg">
 </div>
