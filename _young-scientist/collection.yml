@@ -1,4 +1,5 @@
 collections:
   young-scientist:
     output: true
-    order: []
+    order:
+      - Young Astronomer.md
