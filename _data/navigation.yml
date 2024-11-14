@@ -21,7 +21,7 @@ links:
       - title: Featured Comics
         url: /featured/magnets
       - title: Young Scientist
-        url: young-scientist/young-astronomer/
+        url: /young-scientist/young-astronomer/
   - title: Games
     url: /games/web-games/confusing-word-pairs
     sublinks:
