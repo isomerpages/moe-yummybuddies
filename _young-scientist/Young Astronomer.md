@@ -1,6 +1,6 @@
 ---
 title: Young Astronomer
-permalink: /young-astronomer/
+permalink: /young-scientist/young-astronomer/
 variant: tiptap
 description: ""
 ---
