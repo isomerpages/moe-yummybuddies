@@ -45,7 +45,7 @@ description: ""
 </div>
 <p></p>
 <p>Explore different fields of science and become a Young Scientist now!</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/yb2ys">
+<a target="”_blank”" class="isomer-image-wrapper" href="https://go.gov.sg/yb2ys">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/btn_young_scientist.png">
 </a>
 <p></p>
