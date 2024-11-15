@@ -2,5 +2,6 @@ collections:
   young-scientist:
     output: true
     order:
+      - Young Environmentalist.md
       - Young Ecologist.md
       - Young Astronomer.md
