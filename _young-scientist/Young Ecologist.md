@@ -4,48 +4,47 @@ permalink: /young-ecologist/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_01.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_02.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_02.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_03.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_04.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_04.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_05.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_05.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_06.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_06.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_07.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_07.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_08.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_08.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_09.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_09.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/young_astronomer_10.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_10.jpg">
 </div>
-<p></p>
 <p>Explore different fields of science and become a Young Scientist now!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/btn_young_scientist.png">
 </div>
