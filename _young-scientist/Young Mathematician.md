@@ -47,7 +47,7 @@ description: ""
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/Young_Mathematician_comic_10.jpg">
 </div>
 <p>Explore different fields of science and become a Young Scientist now!</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="https://go.gov.sg/yb2ys">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/btn_young_scientist.png">
-</div>
+</a>
 <p></p>
