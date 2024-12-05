@@ -2,6 +2,7 @@ collections:
   sls:
     output: true
     order:
+      - Yummy Buddies Social Studies.md
       - What's near you.md
       - Confusing Word Pairs.md
       - Celebrate NDP 2024!.md
