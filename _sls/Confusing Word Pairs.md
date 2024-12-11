@@ -2,6 +2,7 @@
 title: Confusing Word Pairs
 permalink: /sls/cwp/
 description: ""
+variant: markdown
 ---
 Is your mother **sending** or **fetching** you to school? Does that screw need to be **loser** or **looser**?  
   
