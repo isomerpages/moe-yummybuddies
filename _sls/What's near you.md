@@ -32,9 +32,9 @@ content, simply join our mailing list. (No spam. We promise!)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png">
-</div>
-</td>
+<a target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png">
+</a></div><a target="_blank" href="https://go.gov.sg/yummybuddies-edm">
+</a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_collab.png">
