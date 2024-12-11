@@ -37,9 +37,9 @@ content, simply join our mailing list. (No spam. We promise!)</p>
 </a></td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_collab.png">
-</div>
-</td>
+<a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_collab.png">
+</a></div><a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us">
+</a></td>
 </tr>
 </tbody>
 </table>
