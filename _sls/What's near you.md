@@ -13,7 +13,7 @@ how to use them correctly. Here’s something that might help!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/what_near_you_banner_cover.jpg">
 </div>
-<h3>Ep 1 - Pigeon Break at the Hawker Centre</h3>
+<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Games/games_pigeon_break.jpg">
 </div>
