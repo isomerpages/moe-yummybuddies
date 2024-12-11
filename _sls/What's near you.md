@@ -28,19 +28,20 @@ content, simply join our mailing list. (No spam. We promise!)</p>
 <col>
 <col>
 </colgroup>
-<tbody>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:white;text-align:left;vertical-align:top}
+</style>
+</table><table class="tg">
+<thead>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_collab.png">
-</div>
-</td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/btn_mailing_list.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us"><img alt="" src="/images/Website/btn_collab.png"></a></td>
 </tr>
-</tbody>
+</thead>
 </table>
-<p></p>
