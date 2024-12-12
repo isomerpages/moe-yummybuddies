@@ -4,7 +4,6 @@ permalink: /young-ecologist/
 variant: markdown
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_01.jpg">
 </div>
