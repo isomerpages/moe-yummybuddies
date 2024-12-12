@@ -10,7 +10,7 @@ Let the Yummy Buddies be your guides to explore a beautiful nature reserve and r
 
  ![](/images/SLS/what_near_you_banner_cover.jpg)
 
-<a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
+<a target="_blank" href="https://go.gov.sg/yummybuddies-wny"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
 
 #### Collaborate with us
 
