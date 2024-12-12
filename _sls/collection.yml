@@ -2,7 +2,6 @@ collections:
   sls:
     output: true
     order:
-      - ztest only.md
       - What's Near You?.md
       - Confusing Word Pairs.md
       - Celebrate NDP 2024!.md
