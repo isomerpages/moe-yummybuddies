@@ -4,9 +4,9 @@ permalink: /sls/whats-near-you/
 variant: markdown
 description: ""
 ---
-Is your mother **sending** or **fetching** you to school? Does that screw need to be **loser** or **looser**?  
-  
-Some words are easily confused with others, and it can be tricky to learn how to use them correctly. Here’s something that might help!  
+There is a lot of natural beauty in Singapore, if you know where to look.
+
+Let the Yummy Buddies be your guides to explore a beautiful nature reserve and reservoir, and learn about why such places are important to Singapore.
   
 Introducing… **Yummy Buddies: What's Near You?**
 ![](/images/SLS/what_near_you_banner_cover.jpg)
