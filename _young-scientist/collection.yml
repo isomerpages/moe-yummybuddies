@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Young Astronomer.md
+      - Young Botanist.md
       - Young Ecologist.md
       - Young Environmentalist.md
       - Young Mathematician.md
+      - Young Physicist.md

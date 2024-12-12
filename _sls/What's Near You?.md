@@ -1,15 +1,15 @@
 ---
-title: Confusing Word Pairs
-permalink: /sls/cwp/
-description: ""
+title: What's Near You?
+permalink: /sls/whats-near-you/
 variant: markdown
+description: ""
 ---
 Is your mother **sending** or **fetching** you to school? Does that screw need to be **loser** or **looser**?  
   
 Some words are easily confused with others, and it can be tricky to learn how to use them correctly. Here’s something that might help!  
   
-Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
-![](/images/Games/cover_cwp.jpg)
+Introducing… **Yummy Buddies: What's Near You?**
+![](/images/SLS/what_near_you_banner_cover.jpg)
 
 ### Ep 1 - Pigeon Break at the Hawker Centre
 ![](/images/Games/games_pigeon_break.jpg)

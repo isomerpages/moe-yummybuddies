@@ -4,7 +4,7 @@ permalink: /sls/celebrate-ndp2024/
 description: ""
 variant: tiptap
 ---
-<h3>Yummy Buddies: Celebrate National Day 2024!\</h3>
+<h3>Yummy Buddies: Celebrate National Day 2024!</h3>
 <p>It's time to celebrate National Day!</p>
 <p>Join the Yummy Buddies and try a fun quiz to learn some interesting facts
 about Singapore!</p>
