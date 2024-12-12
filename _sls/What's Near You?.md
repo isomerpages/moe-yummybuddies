@@ -9,6 +9,9 @@ There is a lot of natural beauty in Singapore, if you know where to look.
 Let the Yummy Buddies be your guides to explore a beautiful nature reserve and reservoir, and learn about why such places are important to Singapore.
 
  ![](/images/SLS/what_near_you_banner_cover.jpg)
+ 
+ ### Solve the puzzle and learn fun facts!
+![](/images/Games/games_pigeon_break.jpg)
 
 <a target="_blank" href="https://go.gov.sg/yummybuddies-wny"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
 
