@@ -7,9 +7,8 @@ description: ""
 There is a lot of natural beauty in Singapore, if you know where to look.
 
 Let the Yummy Buddies be your guides to explore a beautiful nature reserve and reservoir, and learn about why such places are important to Singapore.
-  
-Introducing… **Yummy Buddies: What's Near You?**
-![](/images/SLS/what_near_you_banner_cover.jpg)
+
+ ![](/images/SLS/what_near_you_banner_cover.jpg)
 
 ### Ep 1 - Pigeon Break at the Hawker Centre
 ![](/images/Games/games_pigeon_break.jpg)
