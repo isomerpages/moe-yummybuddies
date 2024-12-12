@@ -10,10 +10,8 @@ Let the Yummy Buddies be your guides to explore a beautiful nature reserve and r
 
  ![](/images/SLS/what_near_you_banner_cover.jpg)
 
-### Ep 1 - Pigeon Break at the Hawker Centre
-![](/images/Games/games_pigeon_break.jpg)
-
 <a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
+
 #### Collaborate with us
 
 We are constantly working on new educational content for the Yummy Buddies.  
