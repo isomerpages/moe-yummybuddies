@@ -15,6 +15,15 @@ Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
 ![](/images/Games/games_pigeon_break.jpg)
 
 <a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
+
+<table class="tg">
+<thead>
+<tr>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/btn_mailing_list.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us"><img alt="" src="/images/Website/btn_collab.png"></a></td>
+</tr>
+</thead>
+</table>
 #### Collaborate with us
 
 We are constantly working on new educational content for the Yummy Buddies.  
