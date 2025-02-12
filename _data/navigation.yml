@@ -39,6 +39,10 @@ links:
   - title: SLS Packages
     url: /sls/cwp/
     sublinks:
+      - title: Space Race
+        url: /sls/space-race/
+      - title: What's Near You?
+        url: /sls/whats-near-you/
       - title: Confusing Words Pair
         url: /sls/cwp/
       - title: NDP 2023
@@ -47,8 +51,6 @@ links:
         url: /sls/celebrate-chinese-new-year/
       - title: Hari Raya Puasa
         url: /sls/celebrate-hari-raya/
-      - title: What's Near You?
-        url: /sls/whats-near-you/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
