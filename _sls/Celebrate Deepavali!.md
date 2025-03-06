@@ -9,21 +9,7 @@ description: ""
 Deepavali is so cool!!!!!! Try this fun quiz with the Yummy Buddies to find out more about this joyous festival!
 ![](/images/SLS/mailing_banner_deep.jpg)
 
-### Ep 1 - Pigeon Break at the Hawker Centre
-![](/images/Games/games_pigeon_break.jpg)
-
-<a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
-
-<table class="tg">
-<thead>
-<tr>
-<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/btn_mailing_list.png"></a></td>
-<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us"><img alt="" src="/images/Website/btn_collab.png"></a></td>
-</tr>
-</thead>
-</table>
 #### Collaborate with us
-
 We are constantly working on new educational content for the Yummy Buddies.  
 
 Whether it’s a suggestion or an idea for the Yummy Buddies, let us know what’s on your mind! If you would like to be notified when there is new content, simply join our mailing list.
