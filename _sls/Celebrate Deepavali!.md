@@ -7,7 +7,7 @@ description: ""
 ### Yummy Buddies: Celebrate Deepavali!
 
 Deepavali is so cool!!!!!! Try this fun quiz with the Yummy Buddies to find out more about this joyous festival!
-<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b08eb287-4cb0-4acf-bcb5-80c79c1ca154/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/Mailing_Banner_CNY.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b08eb287-4cb0-4acf-bcb5-80c79c1ca154/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/mailing_banner_deep.jpg"></a>
 
 #### Collaborate with us
 We are constantly working on new educational content for the Yummy Buddies.  
