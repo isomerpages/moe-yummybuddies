@@ -4,9 +4,7 @@ permalink: /sls/space-race/
 variant: markdown
 description: ""
 ---
-Is your mother **sending** or **fetching** you to school? Does that screw need to be **loser** or **looser**?  
-  
-Some words are easily confused with others, and it can be tricky to learn how to use them correctly. Here’s something that might help!  
+Introduction text by our Cat Lover - Liyen. 
   
 Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
 ![](/images/Games/cover_cwp.jpg)
