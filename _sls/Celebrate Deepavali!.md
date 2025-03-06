@@ -9,7 +9,7 @@ Is your mother **sending** or **fetching** you to school? Does that screw need t
 Some words are easily confused with others, and it can be tricky to learn how to use them correctly. Here’s something that might help!  
   
 Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
-![](/images/Games/cover_cwp.jpg)
+![](/images/SLS/Mailing_Banner_Deep.jpg)
 
 ### Ep 1 - Pigeon Break at the Hawker Centre
 ![](/images/Games/games_pigeon_break.jpg)
