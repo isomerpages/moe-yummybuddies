@@ -4,7 +4,7 @@ permalink: /celebrate-deepavali/
 variant: markdown
 description: ""
 ---
-### Yummy Buddies: Celebrate Chinese New Year!
+### Yummy Buddies: Celebrate Deepavali!
 
 Deepavali is so cool!!!!!! Try this fun quiz with the Yummy Buddies to find out more about this joyous festival!
 ![](/images/SLS/mailing_banner_deep.jpg)
