@@ -4,11 +4,9 @@ permalink: /celebrate-deepavali/
 variant: markdown
 description: ""
 ---
-Is your mother **sending** or **fetching** you to school? Does that screw need to be **loser** or **looser**?  
-  
-Some words are easily confused with others, and it can be tricky to learn how to use them correctly. Here’s something that might help!  
-  
-Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
+### Yummy Buddies: Celebrate Chinese New Year!
+
+Deepavali is so cool!!!!!! Try this fun quiz with the Yummy Buddies to find out more about this joyous festival!
 ![](/images/SLS/mailing_banner_deep.jpg)
 
 ### Ep 1 - Pigeon Break at the Hawker Centre
