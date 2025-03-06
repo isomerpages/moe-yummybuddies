@@ -9,14 +9,15 @@ Introduction text by our Cat Lover - Liyen.
 Introducing… **Yummy Buddies: Space Race Series!** Cyberwellness is important. Learn it well. Good Luck!
 ![](/images/SLS/Space%20Race/yb_spacerace_01.jpg)
 
-### Part 1 - Be Kind Online!
-<a target="_blank" href="[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw1"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_bekind.jpg"></a>
+### Part 1 - Be Safe Online!
+<a target="_blank" href="[[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw1"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_besafe.jpg"></a>
 
 ### Part 2 - Be Smart Online!
 <a target="_blank" href="[[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw2"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_besmart.jpg"></a>
 
-### Part 3 - Be Safe Online!
-<a target="_blank" href="[[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw3"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_BeSafe.jpg"></a>
+### Part 3 - Be Kind Online!
+<a target="_blank" href="[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw3"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_bekind.jpg"></a>
+
 
 
 #### Collaborate with us
