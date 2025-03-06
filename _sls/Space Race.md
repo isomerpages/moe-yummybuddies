@@ -6,22 +6,19 @@ description: ""
 ---
 Introduction text by our Cat Lover - Liyen. 
   
-Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
-![](/images/Games/cover_cwp.jpg)
+Introducing… **Yummy Buddies: Space Race Series!** Cyberwellness is important. Learn it well. Good Luck!
+![](/images/SLS/Space%20Race/yb_spacerace_01.jpg)
 
-### Ep 1 - Pigeon Break at the Hawker Centre
-![](/images/Games/games_pigeon_break.jpg)
+### Part 1 - Be Kind Online!
+<a target="_blank" href="[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw1"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_Be_Kind.jpg"></a>
 
-<a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
+### Part 2 - Be Smart Online!
+<a target="_blank" href="[[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw2"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_BeSmart.jpg"></a>
 
-<table class="tg">
-<thead>
-<tr>
-<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img alt="" src="/images/Website/btn_mailing_list.png"></a></td>
-<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-contact-us"><img alt="" src="/images/Website/btn_collab.png"></a></td>
-</tr>
-</thead>
-</table>
+### Part 3 - Be Safe Online!
+<a target="_blank" href="[[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw3"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_BeSafe.jpg"></a>
+
+
 #### Collaborate with us
 
 We are constantly working on new educational content for the Yummy Buddies.  
