@@ -10,7 +10,7 @@ Introducing… **Yummy Buddies: Space Race Series!** Cyberwellness is important.
 ![](/images/SLS/Space%20Race/yb_spacerace_01.jpg)
 
 ### Part 1 - Be Kind Online!
-<a target="_blank" href="[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw1"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_Be_Kind.jpg"></a>
+<a target="_blank" href="[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw1"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_bekind.jpg"></a>
 
 ### Part 2 - Be Smart Online!
 <a target="_blank" href="[[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw2"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_BeSmart.jpg"></a>
