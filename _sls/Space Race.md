@@ -4,10 +4,10 @@ permalink: /sls/cyberspace/
 variant: markdown
 description: ""
 ---
-Introduction text by our Cat Lover - Liyen. 
-  
-Introducing… **Yummy Buddies: Space Race Series!** Cyberwellness is important. Learn it well. Good Luck!
-![](/images/SLS/Space%20Race/yb_spacerace_01.jpg)
+Going online is like going on a space adventure, with amazing things to discover! Just like how we follow safety rules in real life, we need to be safe when we use the Internet.
+
+Join the Yummy Buddies in an exciting **Space Race** adventure and learn how to stay safe while having fun in cyberspace!
+  ![](/images/SLS/Space%20Race/yb_spacerace_01.jpg)
 
 ### Part 1 - Be Safe Online!
 <a target="_blank" href="[[https://go.gov.sg/yummybuddies](https://go.gov.sg/yummybuddies-dp2024)\-cw1"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_besafe.jpg"></a>
