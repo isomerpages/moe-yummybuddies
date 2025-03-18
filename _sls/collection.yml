@@ -2,6 +2,7 @@ collections:
   sls:
     output: true
     order:
+      - MOE Library/.keep
       - Space Race.md
       - What's Near You?.md
       - Confusing Word Pairs.md
