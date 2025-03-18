@@ -2,6 +2,7 @@ collections:
   sls:
     output: true
     order:
+      - Community Gallery/Celebrate NDP 2024!.md
       - Community Gallery/.keep
       - MOE Library/Confusing Word Pairs.md
       - MOE Library/What's Near You?.md
