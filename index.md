@@ -27,7 +27,7 @@ sections:
       button: FIND OUT MORE!
       url: /sls/cyberspace/
       alt: Image alt text
-      image: /images/SLS/Space Race/YummyBuddies_CyberWellness_cover.png
+      image: /images/SLS/Space Race/home_spacerace.png
   - infopic:
       title: Follow us on Instagram!
       id: infopic
