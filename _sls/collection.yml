@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - MOE Library/.keep
+      - MOE Library/Space Race.md
       - MOE Library/Confusing Word Pairs.md
       - MOE Library/What's Near You?.md
-      - MOE Library/Space Race.md
       - Community Gallery/.keep
       - Community Gallery/Celebrate Chinese New Year!.md
       - Community Gallery/Celebrate Deepavali!.md
