@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MOE Library/.keep
-      - Space Race.md
       - What's Near You?.md
       - Confusing Word Pairs.md
       - Celebrate NDP 2024!.md
