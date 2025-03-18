@@ -2,6 +2,7 @@ collections:
   games:
     output: true
     order:
+      - Web Games/Space Race.md
       - Web Games/Confusing Word Pairs.md
       - Web Games/.keep
       - Spot the difference/.keep
