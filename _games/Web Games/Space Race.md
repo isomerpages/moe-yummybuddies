@@ -10,16 +10,14 @@ Going online is like going on a space adventure, with amazing things to discover
 Join the Yummy Buddies in an exciting **Space Race** adventure and learn how to stay safe while having fun in cyberspace!
   ![](/images/SLS/Space%20Race/yb_spacerace_01.jpg)
 
-### Part 1 - Be Safe Online!
-<a target="_blank" href="https://go.gov.sg/yummybuddies-cw1"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_besafe.jpg"></a>
-
-### Part 2 - Be Smart Online!
-<a target="_blank" href="https://go.gov.sg/yummybuddies-cw2"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_besmart.jpg"></a>
-
-### Part 3 - Be Kind Online!
-<a target="_blank" href="https://go.gov.sg/yummybuddies-cw3"><img style="width:75%" alt="" src="/images/SLS/Space%20Race/yb_promo_bekind.jpg"></a>
-
-
+<table class="tg">
+<thead>
+<tr>
+<td class="tg-0pky"><a target="_blank" href="https://yummybuddies.sg/games/space-race/b59"><img alt="" src="/images/Games/btn_games_browser.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-cw1"><img alt="" src="/images/Games/btn_games_sls.png"></a></td>
+</tr>
+</thead>
+</table>
 
 #### Collaborate with us
 
