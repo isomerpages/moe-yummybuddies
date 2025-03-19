@@ -37,10 +37,10 @@ links:
       - title: 3D Series
         url: /animations/3d-series/
   - title: SLS Packages
-    url: /sls/cwp/
+    url: /sls/space-race/
     sublinks:
       - title: Space Race
-        url: /sls/cyberspace
+        url: /sls/space-race/
       - title: What's Near You?
         url: /sls/whats-near-you/
       - title: Confusing Words Pair
