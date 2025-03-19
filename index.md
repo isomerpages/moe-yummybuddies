@@ -25,7 +25,7 @@ sections:
       description: Join the Yummy Buddies in an exciting Space Race adventure and
         learn how to stay safe while having fun in cyberspace!
       button: FIND OUT MORE!
-      url: /sls/cyberspace/
+      url: /sls/space-race/
       alt: Image alt text
       image: /images/SLS/Space Race/home_spacerace.png
   - infopic:
