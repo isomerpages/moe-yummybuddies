@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Web Games
 ---
-Going online is like going on a space adventure, with amazing things to discover! Just like how we follow safety rules in real life, we need to be safe when we use the Internet.
+Embark on an incredible journey through cyberspace - it's just like exploring the vast universe! As astronauts follow important safety rules, we too must navigate the Internet with care.
 
-Join the Yummy Buddies in an exciting **Space Race** adventure and learn how to stay safe while having fun in cyberspace!
+Come along with the Yummy Buddies as they blast off into an exciting **Space Race** and discover the secrets of staying safe while enjoying your digital adventures!
   ![](/images/SLS/Space%20Race/yb_spacerace_01.jpg)
 
 <table class="tg">
