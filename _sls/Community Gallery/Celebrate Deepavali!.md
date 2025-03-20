@@ -8,7 +8,7 @@ third_nav_title: Community Gallery
 ### Yummy Buddies: Celebrate Deepavali!
 
 Deepavali, also known as the Festival of Lights, is a major Indian festival. Learn more about this dazzling festival with the Yummy Buddies!
-<p></p><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b08eb287-4cb0-4acf-bcb5-80c79c1ca154/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/mailing_banner_deep.jpg"></a>
+<p></p><a class="isomer-image-wrapper" target="_blank" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/b08eb287-4cb0-4acf-bcb5-80c79c1ca154/cover"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/mailing_banner_deep.jpg"></a>
 
 #### Collaborate with us
 We are constantly working on new educational content for the Yummy Buddies.  
