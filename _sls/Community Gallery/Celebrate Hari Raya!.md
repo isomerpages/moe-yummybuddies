@@ -20,7 +20,7 @@ content, simply join our mailing list. (No spam. We promise!)</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-edm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-contact-us"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_collab.png"></a>
 </td>
