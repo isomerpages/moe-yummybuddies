@@ -2,7 +2,8 @@ collections:
   games:
     output: true
     order:
-      - Web Games/Confusing Word Pairs.md
       - Web Games/.keep
+      - Web Games/Confusing Word Pairs.md
+      - Web Games/Space Race.md
       - Spot the difference/.keep
       - Spot the difference/The Yummy Buddies.md

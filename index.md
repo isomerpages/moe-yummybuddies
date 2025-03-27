@@ -20,14 +20,14 @@ sections:
           description: Adventure time!
           url: https://yummybuddies.moe.edu.sg/yummy-bites/bouncy/family/
   - infopic:
-      title: What happens next?
+      title: "Yummy Buddies: Space Race"
       id: infopic
-      description: Oh no! Our artist forgot to draw the ending of a comic strip! Help
-        us complete the story!
+      description: Join the Yummy Buddies in an exciting Space Race adventure and
+        learn how to stay safe while having fun in cyberspace!
       button: FIND OUT MORE!
-      url: /what-happens-next/childrens-day/
+      url: /sls/space-race/
       alt: Image alt text
-      image: /images/Website/home_special_event.png
+      image: /images/SLS/Space Race/home_spacerace.png
   - infopic:
       title: Follow us on Instagram!
       id: infopic

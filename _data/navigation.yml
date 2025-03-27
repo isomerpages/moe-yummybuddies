@@ -37,18 +37,22 @@ links:
       - title: 3D Series
         url: /animations/3d-series/
   - title: SLS Packages
-    url: /sls/cwp/
+    url: /sls/space-race/
     sublinks:
+      - title: Space Race
+        url: /sls/space-race/
+      - title: What's Near You?
+        url: /sls/whats-near-you/
       - title: Confusing Words Pair
         url: /sls/cwp/
-      - title: NDP 2023
+      - title: NDP 2024
         url: /sls/ndp2023/
+      - title: Deepavali
+        url: /sls/celebrate-deepavali/
       - title: Chinese New Year
         url: /sls/celebrate-chinese-new-year/
       - title: Hari Raya Puasa
         url: /sls/celebrate-hari-raya/
-      - title: What's Near You?
-        url: /sls/whats-near-you/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:

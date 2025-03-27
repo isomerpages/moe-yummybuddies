@@ -1,19 +1,16 @@
 ---
-title: What's Near You?
-permalink: /sls/whats-near-you/
+title: Celebrate Deepavali!
+permalink: /sls/celebrate-deepavali/
 variant: markdown
 description: ""
+third_nav_title: Community Gallery
 ---
-There is a lot of natural beauty in Singapore, if you know where to look.
+### Yummy Buddies: Celebrate Deepavali!
 
-Let the Yummy Buddies be your guides to explore a beautiful nature reserve and reservoir, and learn about why such places are important to Singapore.
-
-![](/images/SLS/what_near_you_banner_cover.jpg)
-
-<a target="_blank" href="https://go.gov.sg/yummybuddies-wny"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
+Deepavali, also known as the Festival of Lights, is a major Indian festival. Learn more about this dazzling festival with the Yummy Buddies!
+<p></p><a class="isomer-image-wrapper" target="_blank" href="https://go.gov.sg/yummybuddies-dp2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/mailing_banner_deep.jpg"></a>
 
 #### Collaborate with us
-
 We are constantly working on new educational content for the Yummy Buddies.  
 
 Whether it’s a suggestion or an idea for the Yummy Buddies, let us know what’s on your mind! If you would like to be notified when there is new content, simply join our mailing list.

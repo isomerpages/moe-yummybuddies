@@ -2,8 +2,12 @@ collections:
   sls:
     output: true
     order:
-      - What's Near You?.md
-      - Confusing Word Pairs.md
-      - Celebrate NDP 2024!.md
-      - Celebrate Chinese New Year!.md
-      - Celebrate Hari Raya!.md
+      - MOE Library/.keep
+      - MOE Library/Space Race.md
+      - MOE Library/Confusing Word Pairs.md
+      - MOE Library/What's Near You?.md
+      - Community Gallery/.keep
+      - Community Gallery/Celebrate Chinese New Year!.md
+      - Community Gallery/Celebrate Deepavali!.md
+      - Community Gallery/Celebrate Hari Raya!.md
+      - Community Gallery/Celebrate NDP 2024!.md

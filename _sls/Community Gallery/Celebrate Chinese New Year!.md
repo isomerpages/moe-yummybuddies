@@ -1,8 +1,9 @@
 ---
 title: Celebrate Chinese New Year!
 permalink: /sls/celebrate-chinese-new-year/
-variant: tiptap
+variant: markdown
 description: ""
+third_nav_title: Community Gallery
 ---
 <h3>Yummy Buddies: Celebrate Chinese New Year!</h3>
 <p>Chinese New Year is just around the corner! Try this fun quiz with the
@@ -20,7 +21,7 @@ content, simply join our mailing list. (No spam. We promise!)</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-edm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-contact-us"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_collab.png"></a>
 </td>

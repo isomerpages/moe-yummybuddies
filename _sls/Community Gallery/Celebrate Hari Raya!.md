@@ -1,8 +1,9 @@
 ---
 title: Celebrate Hari Raya!
 permalink: /sls/celebrate-hari-raya/
-variant: tiptap
+variant: markdown
 description: ""
+third_nav_title: Community Gallery
 ---
 <h3>Yummy Buddies: Celebrate Hari Raya Puasa!</h3>
 <p>Hari Raya Puasa is just around the corner. Learn about this important
@@ -19,7 +20,7 @@ content, simply join our mailing list. (No spam. We promise!)</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-edm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" target="_blank" href="https://go.gov.sg/yummybuddies-edm"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_mailing_list.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-contact-us"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website/btn_collab.png"></a>
 </td>

@@ -1,20 +1,24 @@
 ---
-title: Confusing Word Pairs
-permalink: /sls/cwp/
-description: ""
+title: Space Race
+permalink: /space-race/
 variant: markdown
+description: ""
+third_nav_title: Web Games
 ---
-Is your mother **sending** or **fetching** you to school? Does that screw need to be **loser** or **looser**?  
-  
-Some words are easily confused with others, and it can be tricky to learn how to use them correctly. Here’s something that might help!  
-  
-Introducing… **Yummy Buddies: Confusing Word Pairs Series!**
-![](/images/Games/cover_cwp.jpg)
+Embark on an incredible journey through cyberspace - it's just like exploring the vast universe! As astronauts follow important safety rules, we too must navigate the Internet with care.
 
-### Ep 1 - Pigeon Break at the Hawker Centre
-![](/images/Games/games_pigeon_break.jpg)
+Come along with the Yummy Buddies as they blast off into an exciting **Space Race** and discover the secrets of staying safe while enjoying your digital adventures!
+  ![](/images/SLS/Space%20Race/yb_spacerace_01.jpg)
+	
+<table class="tg">
+<thead>
+<tr>
+<td class="tg-0pky"><a target="_blank" href="https://yummybuddies.sg/games/space-race/b59"><img alt="" src="/images/Games/btn_games_browser.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-cw1"><img alt="" src="/images/Games/btn_games_sls.png"></a></td>
+</tr>
+</thead>
+</table>
 
-<a target="_blank" href="https://go.gov.sg/yummybuddies-pb-sls"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
 #### Collaborate with us
 
 We are constantly working on new educational content for the Yummy Buddies.  
