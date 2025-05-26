@@ -6,9 +6,9 @@ description: ""
 third_nav_title: Community Gallery
 ---
 <h3>Yummy Buddies: Mosquito Mayhem</h3>
-<p>Chinese New Year is just around the corner! Try this fun quiz with the
+<p>Buzz buzz! Have you ever wonder what are all this black bins? No! They are not trash bins. Want to find out more? Try this fun quiz with the
 Yummy Buddies to find out more about this joyous festival!</p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-cny-sls"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/Mailing_Banner_CNY.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-cny-sls"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/mosquito_mayhem_cover.jpg"></a>
 <h4>Collaborate with us</h4>
 <p>We are constantly working on new educational content for the Yummy Buddies.</p>
 <p>Whether it’s a suggestion or an idea for the Yummy Buddies, let us know
