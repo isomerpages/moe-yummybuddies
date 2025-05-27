@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Community Gallery
 ---
 <h3>Yummy Buddies: Pollination and Fertilisation</h3>
-<p>Spring has sprung! How does a seed become a flower? Want to find out more? Try this fun quiz with the
-Yummy Buddies to find out more about this on SLS!</p>
+<p>What are bees busy doing as they flit from flower to flower? That’s what the Yummy Buddies want to know! Join Bouncy and Merry as they discover the amazing process of pollination that helps plants create new life and grow the delicious fruits we love to eat.</p>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-cny-sls"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/pollination_cover.png"></a>
 <h4>Collaborate with us</h4>
 <p>We are constantly working on new educational content for the Yummy Buddies.</p>
