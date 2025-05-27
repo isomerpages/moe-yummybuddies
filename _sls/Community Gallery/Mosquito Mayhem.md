@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Community Gallery
 ---
 <h3>Yummy Buddies: Mosquito Mayhem</h3>
-<p>Buzz buzz! Have you ever wonder what are all this black bins? No! They are not trash bins. Want to find out more? Try this fun quiz with the
-Yummy Buddies to find out more about this joyous festival!</p>
+<p>The Yummy Buddies are itching to learn all about mosquitoes!
+Join Bouncy and Merry on a buzzing adventure to discover the life cycle of mosquitoes, and learn important ways to prevent these pesky insects from breeding in our neighbourhoods.</p>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-cny-sls"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/mosquito_mayhem_cover.jpg"></a>
 <h4>Collaborate with us</h4>
 <p>We are constantly working on new educational content for the Yummy Buddies.</p>
