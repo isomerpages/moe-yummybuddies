@@ -39,30 +39,10 @@ links:
   - title: SLS Packages
     url: /sls/space-race/
     sublinks:
-      - title: Space Race
+      - title: MOE Library
         url: /sls/space-race/
-      - title: What's Near You?
-        url: /sls/whats-near-you/
-      - title: Confusing Words Pair
-        url: /sls/cwp/
-      - title: NDP 2024
-        url: /sls/ndp2023/
-      - title: Deepavali
-        url: /sls/celebrate-deepavali/
-      - title: Chinese New Year
-        url: /sls/celebrate-chinese-new-year/
-      - title: Hari Raya Puasa
-        url: /sls/celebrate-hari-raya/
-      - title: Mosquito Mayhem
+      - title: Community Gallery
         url: /sls/mosquito-mayhem/
-      - title: Pollination and Fertilisation
-        url: /sls/pollination-and-fertilisation/
-      - title: Platypus
-        url: /sls/platypus-and-other-unique-mammals/
-      - title: Are Viruses living things?
-        url: /sls/are-viruses-living-things/
-      - title: Water Movement in Plants
-        url: /sls/water-movement-in-plants/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
