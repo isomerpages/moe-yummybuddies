@@ -39,20 +39,10 @@ links:
   - title: SLS Packages
     url: /sls/space-race/
     sublinks:
-      - title: Space Race
+      - title: MOE Library
         url: /sls/space-race/
-      - title: What's Near You?
-        url: /sls/whats-near-you/
-      - title: Confusing Words Pair
-        url: /sls/cwp/
-      - title: NDP 2024
-        url: /sls/ndp2023/
-      - title: Deepavali
-        url: /sls/celebrate-deepavali/
-      - title: Chinese New Year
-        url: /sls/celebrate-chinese-new-year/
-      - title: Hari Raya Puasa
-        url: /sls/celebrate-hari-raya/
+      - title: Community Gallery
+        url: /sls/mosquito-mayhem/
   - title: For educators
     url: /for-educators/why-use-the-yummy-buddies/
     sublinks:
