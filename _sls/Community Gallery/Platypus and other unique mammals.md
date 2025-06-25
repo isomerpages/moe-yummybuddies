@@ -9,7 +9,7 @@ third_nav_title: Community Gallery
 <p>The Yummy Buddies have spotted an animal like no other, and they can't wait to learn all about it!
 Join Bouncy and Merry as they go on the trail of a platypus and learn how its unique features help it survive. Let’s dive in!</p>
 
-<p></p><a><img style="width: 60%" height="auto" width="60%" alt="" src="/images/Website/Coming_soon.png"></a>
+<p></p><a><img style="width: 50%" height="auto" width="50%" alt="" src="/images/Website/Coming_soon.png"></a>
 
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-platypus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/platypus_cover.png"></a>
 <h4>Collaborate with us</h4>
