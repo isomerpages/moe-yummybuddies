@@ -2,6 +2,7 @@ collections:
   young-scientist:
     output: true
     order:
+      - Young Water Ambassador.md
       - Young Astronomer.md
       - Young Botanist.md
       - Young Chemist.md
