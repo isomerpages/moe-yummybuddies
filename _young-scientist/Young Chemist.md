@@ -5,43 +5,43 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_01.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_01.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_02.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_02.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_03.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_03.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_04.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_04.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_05.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_05.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_06.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_06.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_07.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_07.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_08.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_08.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_09.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_09.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/The_Young_Ecologist_badge_comics_10.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/Young Scientist/ys_chemist_10.png">
 </div>
 <p></p>
 <p>Explore different fields of science and become a Young Scientist now!</p>
