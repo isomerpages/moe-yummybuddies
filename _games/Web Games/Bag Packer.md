@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Web Games
 ---
-Ever feel like your schoolbag weighs a ton? Join Bouncy, Flip, and Pok Pok as they discover how to pack smart, travel light, and stay ready for school each day!
+Ever feel like your schoolbag weighs a ton?
 
-Learn how to check your timetable, pick what you really need, and keep your bag neat and tidy. Because when you pack with a plan, every school day starts off right!
+Join the Yummy Buddies to learn how to check your timetable, pick what you really need, and keep your bag neat and tidy. Because when you pack with a plan, every school day starts off right!
 
 Ready, set… **pack!**
   ![](/images/SLS/BagPacker_Cover.png)
