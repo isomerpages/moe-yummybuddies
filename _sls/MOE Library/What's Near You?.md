@@ -5,11 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: MOE Library
 ---
-Ever feel like your schoolbag weighs a ton? Join Bouncy, Flip, and Pok Pok as they discover how to pack smart, travel light, and stay ready for school each day!
+There is a lot of natural beauty in Singapore, if you know where to look.
 
-Learn how to check your timetable, pick what you really need, and keep your bag neat and tidy. Because when you pack with a plan, every school day starts off right!
+Let the Yummy Buddies be your guides to explore a beautiful nature reserve and reservoir, and learn about why such places are important to Singapore.
 
-Ready, set… **pack!**
   ![](/images/SLS/BagPacker_Cover.png)
 
 <a target="_blank" href="https://go.gov.sg/yummybuddies-wny"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
