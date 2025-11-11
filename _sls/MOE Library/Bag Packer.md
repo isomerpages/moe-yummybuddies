@@ -13,7 +13,7 @@ Ready, set… **pack!**
 
 ![](/images/SLS/BagPacker_Cover.png)
 
-<a target="_blank" href="https://go.gov.sg/yummybuddies-wny"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
+<a target="_blank" href="https://go.gov.sg/yummybuddies-bagpacker"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
 
 #### Collaborate with us
 
