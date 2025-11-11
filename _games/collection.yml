@@ -2,6 +2,7 @@ collections:
   games:
     output: true
     order:
+      - Web Games/Organise Your Bag.md
       - Web Games/Bag Packer.md
       - Web Games/.keep
       - Web Games/Confusing Word Pairs.md
