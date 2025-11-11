@@ -2,10 +2,10 @@ collections:
   games:
     output: true
     order:
-      - Web Games/Organise Your Bag.md
-      - Web Games/Bag Packer.md
       - Web Games/.keep
+      - Web Games/Bag Packer.md
       - Web Games/Confusing Word Pairs.md
+      - Web Games/Organise Your Bag.md
       - Web Games/Space Race.md
       - Spot the difference/.keep
       - Spot the difference/The Yummy Buddies.md
