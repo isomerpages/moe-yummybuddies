@@ -5,11 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Web Games
 ---
-Ever feel like your schoolbag weighs a tonne? Join the Yummy Buddies as they discover how to pack smart, travel light, and get ready for school each day!
+Sort and organise your items by size. With smart packing, you’ll always know where everything is.
 
-Learn how to check your timetable, pick what you really need, and keep your schoolbag neat and tidy. Because when you pack with a plan, every school day starts off right!
-
-Ready, set… **pack!**
+Ready to level up your packing skills? Let’s organise that bag!
 
 ![](/images/Games/oyb_cover.png)
 	
