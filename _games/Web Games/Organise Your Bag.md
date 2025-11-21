@@ -5,9 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Web Games
 ---
-Sort and organise your items by size. With smart packing, you’ll always know where everything is.
-
-Ready to level up your packing skills? Let’s organise that bag!
+Ready to level up your packing skills? Learn how to sort your items by size to keep your bag neat and tidy. Let's organise that bag!
 
 ![](/images/Games/oyb_cover.png)
 	
