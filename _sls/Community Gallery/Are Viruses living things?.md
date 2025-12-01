@@ -9,7 +9,7 @@ third_nav_title: Community Gallery
 <p>Get ready for a Yummy Buddies adventure of microscopic proportions!
 Join Bouncy and Merry as they journey inside the human body to learn about the difference between bacteria and viruses.</p>
 
-<p></p><a><img style="width: 50%" height="auto" width="50%" alt="" src="/images/Website/Coming_soon.png"></a>
+
 
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-virus"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/viruses_cover.png"></a>
 <h4>Collaborate with us</h4>
