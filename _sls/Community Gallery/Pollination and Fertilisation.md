@@ -8,8 +8,6 @@ third_nav_title: Community Gallery
 <h3>Yummy Buddies: Pollination and Fertilisation</h3>
 <p>What are bees busy doing as they flit from flower to flower? That’s what the Yummy Buddies want to know! Join Bouncy and Merry as they discover the amazing process of pollination that helps plants create new life and grow the delicious fruits we love to eat.</p>
 
-<p></p><a><img style="width: 50%" height="auto" width="50%" alt="" src="/images/Website/Coming_soon.png"></a>
-
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-pollination"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/pollination_cover.png"></a>
 <h4>Collaborate with us</h4>
 
