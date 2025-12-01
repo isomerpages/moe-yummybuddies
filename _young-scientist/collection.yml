@@ -2,12 +2,12 @@ collections:
   young-scientist:
     output: true
     order:
-      - Young Entomologist.md
       - Young Astronomer.md
       - Young Botanist.md
       - Young Chemist.md
       - Young Ecologist.md
       - Young Environmentalist.md
+      - Young Entomologist.md
       - Young Mathematician.md
       - Young Physicist.md
       - Young Water Ambassador.md
