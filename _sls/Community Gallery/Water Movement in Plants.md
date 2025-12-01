@@ -9,7 +9,6 @@ third_nav_title: Community Gallery
 <p>The Yummy Buddies are trying to bring some wilted plants back to life, but how do plants drink their water?
 Join Bouncy and Merry as they shrink down to explore the fascinating transport system inside a plant. When it comes to learning about plants, just go with the flow!</p>
 
-<p></p><a><img style="width: 50%" height="auto" width="50%" alt="" src="/images/Website/Coming_soon.png"></a>
 
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/yummybuddies-watermov"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS/plants_cover.png"></a>
 <h4>Collaborate with us</h4>
