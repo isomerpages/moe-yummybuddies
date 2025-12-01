@@ -1,17 +1,22 @@
 ---
-title: What's Near You?
-permalink: /sls/whats-near-you/
+title: Organise Your Bag
+permalink: /organise-your-bag/
 variant: markdown
 description: ""
-third_nav_title: MOE Library
+third_nav_title: Web Games
 ---
-There is a lot of natural beauty in Singapore, if you know where to look.
+Ready to level up your packing skills? Learn how to sort your items by size to keep your bag neat and tidy. Let's organise that bag!
 
-Let the Yummy Buddies be your guides to explore a beautiful nature reserve and reservoir, and learn about why such places are important to Singapore.
-
-  ![](/images/SLS/what_near_you_banner_cover.jpg)
-
-<a target="_blank" href="https://go.gov.sg/yummybuddies-wny"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
+![](/images/Games/oyb_cover.png)
+	
+<table class="tg">
+<thead>
+<tr>
+<td class="tg-0pky"><a target="_blank" href="https://yummybuddies.sg/games/organize-bag/b8/"><img alt="" src="/images/Games/btn_games_browser.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-bagpacker"><img alt="" src="/images/Games/btn_games_sls.png"></a></td>
+</tr>
+</thead>
+</table>
 
 #### Collaborate with us
 

@@ -1,17 +1,19 @@
 ---
-title: What's Near You?
-permalink: /sls/whats-near-you/
+title: Bag Packer
+permalink: /sls/back-packer/
 variant: markdown
 description: ""
 third_nav_title: MOE Library
 ---
-There is a lot of natural beauty in Singapore, if you know where to look.
+Ever feel like your schoolbag weighs a tonne? Join the Yummy Buddies as they discover how to pack smart, travel light, and get ready for school each day!
 
-Let the Yummy Buddies be your guides to explore a beautiful nature reserve and reservoir, and learn about why such places are important to Singapore.
+Learn how to check your timetable, pick what you really need, and keep your schoolbag neat and tidy. Because when you pack with a plan, every school day starts off right!
 
-  ![](/images/SLS/what_near_you_banner_cover.jpg)
+Ready, set… **pack!**
 
-<a target="_blank" href="https://go.gov.sg/yummybuddies-wny"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
+![](/images/SLS/BagPacker_Cover.png)
+
+<a target="_blank" href="https://go.gov.sg/yummybuddies-bagpacker"><img style="width:50%" alt="" src="/images/Games/btn_games_sls.png"></a>
 
 #### Collaborate with us
 
