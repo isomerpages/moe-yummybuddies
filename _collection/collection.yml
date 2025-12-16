@@ -2,4 +2,5 @@ collections:
   collection:
     output: true
     order:
+      - Resources.md
       - Comics.md
