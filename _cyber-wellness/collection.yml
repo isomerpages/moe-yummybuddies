@@ -2,4 +2,5 @@ collections:
   cyber-wellness:
     output: true
     order:
+      - Be Smart/.keep
       - Be Kind/.keep
