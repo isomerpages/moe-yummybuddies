@@ -10,6 +10,8 @@ links:
   - title: Comics
     url: /yummy-bites/bouncy/family/
     sublinks:
+      - title: Cyber Wellness
+        url: /be-safe/1
       - title: Buddy Basics
         url: /buddy-basics/round/
       - title: Yummy Bites
@@ -22,8 +24,6 @@ links:
         url: /featured/magnets
       - title: Young Scientist
         url: /young-scientist/young-astronomer/
-      - title: Cyber Wellness
-        url: /be-safe/1
   - title: Games
     url: /games/web-games/confusing-word-pairs
     sublinks:
