@@ -1,5 +1,4 @@
 collections:
   cyber-wellness:
     output: true
-    order:
-      - Be Kind.md
+    order: []
