@@ -2,7 +2,6 @@ collections:
   cyber-wellness:
     output: true
     order:
-      - "Be Safe/Be Safe: Comic 7.md"
       - Be Safe/.keep
       - "Be Safe/Be Safe: Comic 1.md"
       - "Be Safe/Be Safe: Comic 2.md"
@@ -10,6 +9,7 @@ collections:
       - "Be Safe/Be Safe: Comic 4.md"
       - "Be Safe/Be Safe: Comic 5.md"
       - "Be Safe/Be Safe: Comic 6.md"
+      - "Be Safe/Be Safe: Comic 7.md"
       - Be Smart/.keep
       - Be Smart/20 20 20 Rule.md
       - Be Smart/Balancing online and offline.md
