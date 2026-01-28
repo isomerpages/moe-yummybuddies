@@ -2,6 +2,7 @@ collections:
   cyber-wellness:
     output: true
     order:
+      - "Be Safe/Be Safe: Comic 2.md"
       - "Be Safe/Be Safe: Comic 1.md"
       - Be Safe/.keep
       - Be Smart/.keep
