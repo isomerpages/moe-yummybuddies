@@ -7,22 +7,22 @@ third_nav_title: Be Smart
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/1_device.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/1_device.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/2_device.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/2_device.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/3_device.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/3_device.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/4_device.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/4_device.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/5_device.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Smart/5_device.jpg">
 </div>
 <p></p>
