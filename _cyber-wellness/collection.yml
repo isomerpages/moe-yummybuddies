@@ -1,0 +1,26 @@
+collections:
+  cyber-wellness:
+    output: true
+    order:
+      - Be Safe/.keep
+      - Be Safe/Comic 1.md
+      - Be Safe/Comic 2.md
+      - Be Safe/Comic 3.md
+      - Be Safe/Comic 4.md
+      - Be Safe/Comic 5.md
+      - Be Safe/Comic 6.md
+      - Be Safe/Comic 7.md
+      - Be Safe/Comic 8.md
+      - Be Smart/.keep
+      - Be Smart/20 20 20 Rule.md
+      - Be Smart/Balancing online and offline.md
+      - Be Smart/Bedtime routine.md
+      - Be Smart/Routine for device usage.md
+      - Be Kind/.keep
+      - Be Kind/Be an upstander.md
+      - Be Kind/Be courteous online.md
+      - Be Kind/Contribute meaningfully.md
+      - Be Kind/Email draft.md
+      - Be Kind/Respect others' privacy online.md
+      - Be Kind/Respect works created by others.md
+      - Be Kind/Think before posting.md
