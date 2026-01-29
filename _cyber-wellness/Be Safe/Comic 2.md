@@ -30,9 +30,6 @@ third_nav_title: Be Safe
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Safe/comics_CW_2_06.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Safe/comics_CW_2_07.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Comics/CyberWellness Be Safe/comics_CW_2_07_2.jpg">
