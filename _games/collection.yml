@@ -2,6 +2,7 @@ collections:
   games:
     output: true
     order:
+      - Web Games/Firewall Defence.md
       - Web Games/.keep
       - Web Games/Bag Packer.md
       - Web Games/Confusing Word Pairs.md
