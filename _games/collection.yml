@@ -2,7 +2,6 @@ collections:
   games:
     output: true
     order:
-      - Web Games/What’s The Correct Behavior?.md
       - Web Games/.keep
       - Web Games/Bag Packer.md
       - Web Games/Bouncy's Escape.md
@@ -11,5 +10,6 @@ collections:
       - Web Games/Guess The Yummy Buddies.md
       - Web Games/Organise Your Bag.md
       - Web Games/Space Race.md
+      - Web Games/What’s The Correct Behavior?.md
       - Spot the difference/.keep
       - Spot the difference/The Yummy Buddies.md
