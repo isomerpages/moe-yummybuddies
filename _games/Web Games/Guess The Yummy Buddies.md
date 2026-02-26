@@ -5,11 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Web Games
 ---
-Can you choose the correct Yummy Buddy? 
-Select carefully and see if you’ve made the right choice!
+Is Bouncy a triangle? Or a square? Look closely at their shapes and choose the correct Yummy Buddy!  
+Each character has something meaningful to share about staying safe and smart online. 
 
-When you guess correctly, each Yummy Buddy shares a meaningful tip to help you stay safe and smart online. 
-Ready to learn from your favourite Yummy Buddies? Let’s start guessing!
+Just like shapes fit together to make a picture, smart choices fit together to build good online habits. 
 
 ![](/images/Games/Guess_Buddies.png)
 	
