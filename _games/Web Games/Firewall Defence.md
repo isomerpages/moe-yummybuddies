@@ -12,7 +12,7 @@ Learn how to check your timetable, pick what you really need, and keep your scho
 Ready, set… **pack!**
 
 ![](/images/Games/Firewall_Defence.png)
-	
+
 <table class="tg">
 <thead>
 <tr>
