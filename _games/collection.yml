@@ -2,6 +2,7 @@ collections:
   games:
     output: true
     order:
+      - Web Games/Guess The Yummy Buddies.md
       - Web Games/.keep
       - Web Games/Bag Packer.md
       - Web Games/Bouncy's Escape.md
