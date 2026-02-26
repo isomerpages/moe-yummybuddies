@@ -16,8 +16,8 @@ Ready, set… **pack!**
 <table class="tg">
 <thead>
 <tr>
-<td class="tg-0pky"><a target="_blank" href="https://yummybuddies.sg/games/bag-packer/b16/"><img alt="" src="/images/Games/btn_games_browser.png"></a></td>
-<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yummybuddies-bagpacker"><img alt="" src="/images/Games/btn_games_sls.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yb-html5-fw-def"><img alt="" src="/images/Games/btn_games_browser.png"></a></td>
+
 </tr>
 </thead>
 </table>
