@@ -5,18 +5,18 @@ variant: markdown
 description: ""
 third_nav_title: Web Games
 ---
-Cyber threats are on the move and the Yummy Buddies need your help! 
-Step into action as you defend against suspicious messages, tricky links, and online dangers trying to break through the firewall.
+Can you choose the correct Yummy Buddy? 
+Select carefully and see if you’ve made the right choice!
 
-Stay alert, think carefully, and make smart choices to keep everyone safe online.  
-Are you ready to protect the digital world? Let’s power up and defend! 
+When you guess correctly, each Yummy Buddy shares a meaningful tip to help you stay safe and smart online. 
+Ready to learn from your favourite Yummy Buddies? Let’s start guessing!
 
-![](/images/Games/Firewall_Defence.png)
+![](/images/Games/Guess_Buddies.png)
 	
 <table class="tg">
 <thead>
 <tr>
-<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yb-html5-fw-def"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Games/btn_games_browser.png"></a></td>
+<td class="tg-0pky"><a target="_blank" href="https://go.gov.sg/yb-html5-guess"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Games/btn_games_browser.png"></a></td>
 
 </tr>
 </thead>
