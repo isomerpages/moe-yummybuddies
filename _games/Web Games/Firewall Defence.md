@@ -11,7 +11,7 @@ Learn how to check your timetable, pick what you really need, and keep your scho
 
 Ready, set… **pack!**
 
-![](/images/SLS/BagPacker_Cover.png)
+![](/images/Games/Firewall_Defence.png)
 	
 <table class="tg">
 <thead>
