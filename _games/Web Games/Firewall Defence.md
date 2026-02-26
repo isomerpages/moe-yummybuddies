@@ -5,11 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Web Games
 ---
-Ever feel like your schoolbag weighs a tonne? Join the Yummy Buddies as they discover how to pack smart, travel light, and get ready for school each day!
+Cyber threats are on the move and the Yummy Buddies need your help! 
+Step into action as you defend against suspicious messages, tricky links, and online dangers trying to break through the firewall.
 
-Learn how to check your timetable, pick what you really need, and keep your schoolbag neat and tidy. Because when you pack with a plan, every school day starts off right!
-
-Ready, set… **pack!**
+Stay alert, think carefully, and make smart choices to keep everyone safe online.  
+Are you ready to protect the digital world? Let’s power up and defend! 
 
 ![](/images/Games/Firewall_Defence.png)
 	
