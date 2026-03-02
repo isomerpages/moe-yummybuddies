@@ -5,10 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Outreach Activities
 ---
-Is Bouncy a triangle? Or a square? Look closely at their shapes and choose the correct Yummy Buddy!  
-Each character has something meaningful to share about staying safe and smart online. 
+Is Bouncy a triangle or a square? Look closely at their shapes and choose the right Yummy Buddy! 
 
-Just like shapes fit together to make a picture, smart choices fit together to build good online habits. 
+Every Yummy Buddy has special tips to help you stay safe and smart when you’re online.
+Just like shapes fit together to make a picture, making smart choices online helps you build good online habits.
 
 ![](/images/Games/Guess_Buddies.png)
 	
