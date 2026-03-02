@@ -7,9 +7,9 @@ third_nav_title: Outreach Activities
 ---
 In the digital world, every action has consequences.
 
-Join the Yummy Buddies as you explore different online situations and choose the correct behaviour. From spotting unsafe actions to making responsible decisions, your choices help keep the online space safe. 
+Join the Yummy Buddies to explore different online situations. From spotting unsafe actions to making responsible decisions, your choices help keep the online space safe. 
 
-Think carefully before you click and show that you know the right way to behave online!  
+Think carefully before you click and show everyone how awesome you are at making smart online choices!
 
 ![](/images/Games/Correct_Behaviour.png)
 	
