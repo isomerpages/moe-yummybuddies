@@ -1,6 +1,6 @@
 ---
 title: Young Entomologist
-permalink: /teesst/
+permalink: /young-entomologist/
 variant: markdown
 description: ""
 ---

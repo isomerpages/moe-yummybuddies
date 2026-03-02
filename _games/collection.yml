@@ -2,6 +2,11 @@ collections:
   games:
     output: true
     order:
+      - Outreach Activities/.keep
+      - Outreach Activities/Bouncy's Escape.md
+      - Outreach Activities/Firewall Defence.md
+      - Outreach Activities/Guess The Yummy Buddies.md
+      - Outreach Activities/What’s The Correct Behaviour?.md
       - Web Games/.keep
       - Web Games/Bag Packer.md
       - Web Games/Confusing Word Pairs.md

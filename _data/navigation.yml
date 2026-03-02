@@ -25,8 +25,10 @@ links:
       - title: Young Scientist
         url: /young-scientist/young-astronomer/
   - title: Games
-    url: /games/web-games/confusing-word-pairs
+    url: /bouncy-escape/
     sublinks:
+      - title: Outreach Activities
+        url: /bouncy-escape/
       - title: Web Games
         url: /games/web-games/confusing-word-pairs
       - title: Spot the difference
