@@ -8,7 +8,7 @@ third_nav_title: Outreach Activities
 Oh no! Bouncy is trapped in a mysterious dungeon!
 To escape, you’ll need to solve puzzles, unlock clues, and make smart decisions along the way.
 
-Watch short clips, and answer the cyber wellness questions correctly to help Bouncy move closer to freedom.
+Watch short clips and answer the cyber wellness questions correctly to help Bouncy move closer to freedom.
 Can you crack the codes and guide Bouncy to safety? Let the escape begin! 
 
 ![](/images/Games/Bouncy_escape.png)
