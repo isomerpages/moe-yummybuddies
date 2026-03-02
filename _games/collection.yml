@@ -2,6 +2,7 @@ collections:
   games:
     output: true
     order:
+      - Outreach Activities/Guess The Yummy Buddies.md
       - Outreach Activities/Firewall Defence.md
       - Outreach Activities/Bouncy's Escape.md
       - Outreach Activities/.keep
