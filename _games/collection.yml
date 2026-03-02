@@ -2,7 +2,6 @@ collections:
   games:
     output: true
     order:
-      - Outreach Activities.md
       - Web Games/.keep
       - Web Games/Bag Packer.md
       - Web Games/Bouncy's Escape.md
